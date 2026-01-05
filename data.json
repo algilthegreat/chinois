@@ -1,0 +1,2887 @@
+{
+  
+  "verbes": [
+    { "chinois": "帮助", "pinyin": "bāng zhù", "francais": "aider" },
+    { "chinois": "爱", "pinyin": "ài", "francais": "aimer" },
+    { "chinois": "喜欢", "pinyin": "xǐ huan", "francais": "aimer (bien)" },
+    { "chinois": "走", "pinyin": "zǒu", "francais": "aller (à pied)" },
+    { "chinois": "属于", "pinyin": "shǔ yú", "francais": "appartenir à" },
+    { "chinois": "呼", "pinyin": "hū", "francais": "appeler" },
+    { "chinois": "停", "pinyin": "tíng", "francais": "arrêter" },
+    { "chinois": "来到", "pinyin": "lái dào", "francais": "arriver" },
+    { "chinois": "等", "pinyin": "děng", "francais": "attendre" },
+    { "chinois": "抓住", "pinyin": "zhuā zhù", "francais": "attraper" },
+    { "chinois": "警告", "pinyin": "jǐng gào", "francais": "avertir" },
+    { "chinois": "有", "pinyin": "yǒu", "francais": "avoir" },
+    { "chinois": "需要", "pinyin": "xū yào", "francais": "avoir besoin" },
+
+    { "chinois": "藏", "pinyin": "cáng", "francais": "cacher" },
+    { "chinois": "打破", "pinyin": "dǎ pò", "francais": "casser" },
+    { "chinois": "改变", "pinyin": "gǎi biàn", "francais": "changer" },
+    { "chinois": "打猎", "pinyin": "dǎ liè", "francais": "chasser" },
+    { "chinois": "寻找", "pinyin": "xún zhǎo", "francais": "chercher" },
+    { "chinois": "选", "pinyin": "xuǎn", "francais": "choisir" },
+    { "chinois": "订", "pinyin": "dìng", "francais": "commander (à manger)" },
+    { "chinois": "开始", "pinyin": "kāi shǐ", "francais": "commencer" },
+    { "chinois": "比较", "pinyin": "bǐ jiào", "francais": "comparer" },
+    { "chinois": "明白", "pinyin": "míng bai", "francais": "comprendre" },
+    { "chinois": "计算", "pinyin": "jì suàn", "francais": "compter" },
+    { "chinois": "指望", "pinyin": "zhǐ wàng", "francais": "compter sur" },
+    { "chinois": "混淆", "pinyin": "hùn xiáo", "francais": "confondre" },
+    { "chinois": "建议", "pinyin": "jiàn yì", "francais": "conseiller" },
+    { "chinois": "继续", "pinyin": "jì xù", "francais": "continuer" },
+    { "chinois": "控制", "pinyin": "kòng zhì", "francais": "contrôler" },
+    { "chinois": "跑", "pinyin": "pǎo", "francais": "courir" },
+    { "chinois": "创造", "pinyin": "chuàng zào", "francais": "créer" },
+    { "chinois": "挖", "pinyin": "wā", "francais": "creuser" },
+    { "chinois": "叫喊", "pinyin": "jiào hǎn", "francais": "crier" },
+    { "chinois": "做饭", "pinyin": "zuò fàn", "francais": "cuisiner" },
+
+    { "chinois": "装饰", "pinyin": "zhuāng shì", "francais": "décorer" },
+    { "chinois": "保卫", "pinyin": "bǎo wèi", "francais": "défendre" },
+    { "chinois": "吃午饭", "pinyin": "chī wǔ fàn", "francais": "déjeuner" },
+    { "chinois": "请求", "pinyin": "qǐng qiú", "francais": "demander" },
+    { "chinois": "道歉", "pinyin": "dào qiàn", "francais": "demander pardon" },
+    { "chinois": "赶紧", "pinyin": "gǎn jǐn", "francais": "(se) dépêcher" },
+    { "chinois": "下来", "pinyin": "xià lai", "francais": "descendre" },
+    { "chinois": "猜中", "pinyin": "cāi zhòng", "francais": "deviner" },
+    { "chinois": "吃晚饭", "pinyin": "chī wǎn fàn", "francais": "dîner" },
+    { "chinois": "说", "pinyin": "shuō", "francais": "dire / parler" },
+    { "chinois": "讨论", "pinyin": "tǎo lùn", "francais": "discuter" },
+    { "chinois": "给", "pinyin": "gěi", "francais": "donner" },
+    { "chinois": "怀疑", "pinyin": "huái yí", "francais": "douter" },
+    { "chinois": "骗", "pinyin": "piàn", "francais": "duper" },
+
+    { "chinois": "写", "pinyin": "xiě", "francais": "écrire" },
+    { "chinois": "听见", "pinyin": "tīng jiàn", "francais": "entendre" },
+    { "chinois": "进来", "pinyin": "jìn lái", "francais": "entrer" },
+    { "chinois": "寄", "pinyin": "jì", "francais": "envoyer (lettres)" },
+    { "chinois": "希望", "pinyin": "xī wàng", "francais": "espérer" },
+    { "chinois": "试图", "pinyin": "shì tú", "francais": "essayer" },
+    { "chinois": "同意", "pinyin": "tóng yì", "francais": "être d’accord" },
+    { "chinois": "学习", "pinyin": "xué xí", "francais": "étudier" },
+    { "chinois": "要求", "pinyin": "yāo qiú", "francais": "exiger" },
+    { "chinois": "存在", "pinyin": "cún zài", "francais": "exister" },
+    { "chinois": "解释", "pinyin": "jiě shì", "francais": "expliquer" },
+
+    { "chinois": "管理", "pinyin": "guǎn lǐ", "francais": "gérer" },
+    { "chinois": "责骂", "pinyin": "zé mà", "francais": "gronder" },
+    { "chinois": "通知", "pinyin": "tōng zhī", "francais": "informer" },
+    { "chinois": "坚持", "pinyin": "jiān chí", "francais": "insister" },
+    { "chinois": "侮辱", "pinyin": "wǔ rǔ", "francais": "insulter" },
+    { "chinois": "邀请", "pinyin": "yāo qǐng", "francais": "inviter" },
+    { "chinois": "玩", "pinyin": "wán", "francais": "jouer" },
+    { "chinois": "展示", "pinyin": "zhǎn shì", "francais": "jouer (spectacle)" },
+    { "chinois": "观察", "pinyin": "guān chá", "francais": "observer / surveiller" },
+
+    { "chinois": "忘", "pinyin": "wàng", "francais": "oublier" },
+    { "chinois": "开", "pinyin": "kāi", "francais": "ouvrir" },
+    { "chinois": "命令", "pinyin": "mìng lìng", "francais": "ordonner" },
+    { "chinois": "原谅", "pinyin": "yuán liàng", "francais": "pardonner" },
+    { "chinois": "参与", "pinyin": "cān yù", "francais": "participer" },
+    { "chinois": "支付", "pinyin": "zhī fù", "francais": "payer" },
+    { "chinois": "想", "pinyin": "xiǎng", "francais": "penser / vouloir" },
+    { "chinois": "允许", "pinyin": "yǔn xǔ", "francais": "permettre" },
+    { "chinois": "抱怨", "pinyin": "bào yuàn", "francais": "se plaindre" },
+    { "chinois": "计划", "pinyin": "jì huà", "francais": "planifier" },
+    { "chinois": "能", "pinyin": "néng", "francais": "pouvoir" },
+
+    { "chinois": "拥有", "pinyin": "yōng yǒu", "francais": "posséder" },
+    { "chinois": "拿", "pinyin": "ná", "francais": "prendre" },
+    { "chinois": "吃早饭", "pinyin": "chī zǎo fàn", "francais": "prendre le petit-déjeuner" },
+    { "chinois": "宁愿", "pinyin": "nìng yuàn", "francais": "préférer" },
+    { "chinois": "保存", "pinyin": "bǎo cún", "francais": "préserver" },
+    { "chinois": "预见", "pinyin": "yù jiàn", "francais": "prévoir" },
+    { "chinois": "祈祷", "pinyin": "qí dǎo", "francais": "prier" },
+    { "chinois": "承诺", "pinyin": "chéng nuò", "francais": "promettre" },
+    { "chinois": "提议", "pinyin": "tí yì", "francais": "proposer" },
+    { "chinois": "惩罚", "pinyin": "chéng fá", "francais": "punir" },
+    { "chinois": "错过", "pinyin": "cuò guò", "francais": "rater" },
+
+    { "chinois": "推荐", "pinyin": "tuī jiàn", "francais": "recommander" },
+    { "chinois": "拒绝", "pinyin": "jù jué", "francais": "refuser" },
+    { "chinois": "后悔", "pinyin": "hòu huǐ", "francais": "regretter" },
+    { "chinois": "注意到", "pinyin": "zhù yì dào", "francais": "remarquer" },
+    { "chinois": "重复", "pinyin": "chóng fù", "francais": "répéter" },
+    { "chinois": "回答", "pinyin": "huí dá", "francais": "répondre" },
+    { "chinois": "预订", "pinyin": "yù dìng", "francais": "réserver" },
+    { "chinois": "沉默", "pinyin": "chén mò", "francais": "rester silencieux" },
+    { "chinois": "笑", "pinyin": "xiào", "francais": "rire" },
+    { "chinois": "救出", "pinyin": "jiù chū", "francais": "sauver" },
+    { "chinois": "坐下", "pinyin": "zuò xia", "francais": "s’asseoir" },
+    { "chinois": "知道", "pinyin": "zhī dào", "francais": "savoir" },
+    { "chinois": "签名", "pinyin": "qiān míng", "francais": "signer" },
+    { "chinois": "走出去", "pinyin": "zǒu chū qù", "francais": "sortir (à pied)" },
+    { "chinois": "微笑", "pinyin": "wēi xiào", "francais": "sourire" },
+
+    { "chinois": "轻视", "pinyin": "qīng shì", "francais": "sous-estimer" },
+    { "chinois": "跟随", "pinyin": "gēn suí", "francais": "suivre" },
+    { "chinois": "暗示", "pinyin": "àn shì", "francais": "suggérer" },
+    { "chinois": "射击", "pinyin": "shè jī", "francais": "tirer" },
+    { "chinois": "跌倒", "pinyin": "diē dǎo", "francais": "tomber" },
+    { "chinois": "摸", "pinyin": "mō", "francais": "toucher" },
+    { "chinois": "转弯", "pinyin": "zhuǎn wān", "francais": "tourner" },
+    { "chinois": "翻译", "pinyin": "fān yì", "francais": "traduire" },
+    { "chinois": "工作", "pinyin": "gōng zuò", "francais": "travailler" },
+    { "chinois": "找到", "pinyin": "zhǎo dào", "francais": "trouver" },
+    { "chinois": "杀死", "pinyin": "shā sǐ", "francais": "tuer" },
+    { "chinois": "自夸", "pinyin": "zì kuā", "francais": "se vanter" },
+    { "chinois": "卖", "pinyin": "mài", "francais": "vendre" },
+    { "chinois": "看见", "pinyin": "kàn jiàn", "francais": "voir" },
+    { "chinois": "偷窃", "pinyin": "tōu qiè", "francais": "voler" },
+    { "chinois": "飞", "pinyin": "fēi", "francais": "voler (dans les airs)" }
+  ],
+  "hsk1": [
+    {
+        "chinois": "爱",
+        "pinyin": "ài",
+        "francais": "aimer, avoir de l'affection"
+    },
+    {
+        "chinois": "爱好",
+        "pinyin": "àihào",
+        "francais": "loisir, intérêt, aimer"
+    },
+    {
+        "chinois": "八",
+        "pinyin": "bā",
+        "francais": "huit, 8"
+    },
+    {
+        "chinois": "爸爸",
+        "pinyin": "bàba",
+        "francais": "papa"
+    },
+    {
+        "chinois": "吧",
+        "pinyin": "ba",
+        "francais": "particule modale utilisée à la fin de la phrase pour indiquer une consultation, une suggestion, une requête ou une commande"
+    },
+    {
+        "chinois": "白",
+        "pinyin": "bái",
+        "francais": "blanc"
+    },
+    {
+        "chinois": "白天",
+        "pinyin": "báitiān",
+        "francais": "journée, pendant la journée, jour"
+    },
+    {
+        "chinois": "百",
+        "pinyin": "bǎi",
+        "francais": "cent"
+    },
+    {
+        "chinois": "班",
+        "pinyin": "bān",
+        "francais": "grouper, classe, équipe, CL: pour les groupes"
+    },
+    {
+        "chinois": "半",
+        "pinyin": "bàn",
+        "francais": "moitié, demi, incomplet, et demi (après un nombre)"
+    },
+    {
+        "chinois": "半年",
+        "pinyin": "bànnián",
+        "francais": "la moitié d'une année"
+    },
+    {
+        "chinois": "帮",
+        "pinyin": "bāng",
+        "francais": "aider, assister, soutenir"
+    },
+    {
+        "chinois": "帮忙",
+        "pinyin": "bāngmáng",
+        "francais": "aider, donner un coup de main, rendre un service à quelqu'un"
+    },
+    {
+        "chinois": "包",
+        "pinyin": "bāo",
+        "francais": "paquet, empaqueter, sac, couvrir, envelopper"
+    },
+    {
+        "chinois": "包子",
+        "pinyin": "bāozi",
+        "francais": "petit pain farci cuit à la vapeur"
+    },
+    {
+        "chinois": "杯",
+        "pinyin": "bēi",
+        "francais": "tasse, CL: pour certains contenants de liquides: verre, tasse"
+    },
+    {
+        "chinois": "杯子",
+        "pinyin": "bēizi",
+        "francais": "tasse, verre"
+    },
+    {
+        "chinois": "北",
+        "pinyin": "běi",
+        "francais": "nord"
+    },
+    {
+        "chinois": "北京",
+        "pinyin": "Běijīng",
+        "francais": "Pékin"
+    },
+    {
+        "chinois": "本",
+        "pinyin": "běn",
+        "francais": "carnet, racine, origine, CL: livres"
+    },
+    {
+        "chinois": "本子",
+        "pinyin": "běnzi",
+        "francais": "livre, cahier"
+    },
+    {
+        "chinois": "比",
+        "pinyin": "bǐ",
+        "francais": "particule pour comparer"
+    },
+    {
+        "chinois": "别",
+        "pinyin": "bié",
+        "francais": "négation, un(e) autre, partir"
+    },
+    {
+        "chinois": "别的",
+        "pinyin": "biéde",
+        "francais": "autre"
+    },
+    {
+        "chinois": "别人",
+        "pinyin": "biérén",
+        "francais": "autres personnes, autre personne, les autres"
+    },
+    {
+        "chinois": "病",
+        "pinyin": "bìng",
+        "francais": "maladie, malaise, affection, tomber malade, malade, défaut"
+    },
+    {
+        "chinois": "病人",
+        "pinyin": "bìngrén",
+        "francais": "personne malade, patient"
+    },
+    {
+        "chinois": "不大",
+        "pinyin": "búdà",
+        "francais": "pas très, pas trop, pas souvent"
+    },
+    {
+        "chinois": "不对",
+        "pinyin": "búduì",
+        "francais": "incorrect, faux"
+    },
+    {
+        "chinois": "不客气",
+        "pinyin": "búkèqì",
+        "francais": "de rien"
+    },
+    {
+        "chinois": "不用",
+        "pinyin": "búyòng",
+        "francais": "(Il n'y a) pas besoin de"
+    },
+    {
+        "chinois": "不",
+        "pinyin": "bù",
+        "francais": "négation"
+    },
+    {
+        "chinois": "菜",
+        "pinyin": "cài",
+        "francais": "plat (de nourriture), légumes"
+    },
+    {
+        "chinois": "茶",
+        "pinyin": "chá",
+        "francais": "thé"
+    },
+    {
+        "chinois": "差",
+        "pinyin": "chà",
+        "francais": "à court de, faute de, se différencier de, médiocre"
+    },
+    {
+        "chinois": "常",
+        "pinyin": "cháng",
+        "francais": "toujours, (si) jamais, souvent, fréquemment, commun, général, constant"
+    },
+    {
+        "chinois": "常常",
+        "pinyin": "chángcháng",
+        "francais": "fréquemment, habituellement, souvent"
+    },
+    {
+        "chinois": "唱",
+        "pinyin": "chàng",
+        "francais": "chanter"
+    },
+    {
+        "chinois": "唱歌",
+        "pinyin": "chànggē",
+        "francais": "chanter une chanson"
+    },
+    {
+        "chinois": "车",
+        "pinyin": "chē",
+        "francais": "voiture, véhicule"
+    },
+    {
+        "chinois": "车票",
+        "pinyin": "chēpiào",
+        "francais": "billet de train ou de bus"
+    },
+    {
+        "chinois": "车上",
+        "pinyin": "chēshang",
+        "francais": "dans la voiture"
+    },
+    {
+        "chinois": "车站",
+        "pinyin": "chēzhàn",
+        "francais": "gare, arrêt de bus"
+    },
+    {
+        "chinois": "吃",
+        "pinyin": "chī",
+        "francais": "manger"
+    },
+    {
+        "chinois": "吃饭",
+        "pinyin": "chīfàn",
+        "francais": "manger, prendre un repas"
+    },
+    {
+        "chinois": "出",
+        "pinyin": "chū",
+        "francais": "partir, élever"
+    },
+    {
+        "chinois": "出来",
+        "pinyin": "chūlái",
+        "francais": "sortir"
+    },
+    {
+        "chinois": "出去",
+        "pinyin": "chūqù",
+        "francais": "sortir"
+    },
+    {
+        "chinois": "穿",
+        "pinyin": "chuān",
+        "francais": "s'habiller, porter"
+    },
+    {
+        "chinois": "床",
+        "pinyin": "chuáng",
+        "francais": "lit"
+    },
+    {
+        "chinois": "次",
+        "pinyin": "cì",
+        "francais": "fois, pour énumérer, pour des séquences"
+    },
+    {
+        "chinois": "从",
+        "pinyin": "cóng",
+        "francais": "à partir de, jamais (suivi de la négation)"
+    },
+    {
+        "chinois": "错",
+        "pinyin": "cuò",
+        "francais": "faute, erreur, faux"
+    },
+    {
+        "chinois": "打",
+        "pinyin": "dǎ",
+        "francais": "battre, frapper, casser, remuer (émotionnellement), toucher, éveiller ses sentiments"
+    },
+    {
+        "chinois": "打车",
+        "pinyin": "dāchē",
+        "francais": "prendre un taxi"
+    },
+    {
+        "chinois": "打电话",
+        "pinyin": "dǎdiànhuà",
+        "francais": "téléphoner"
+    },
+    {
+        "chinois": "打开",
+        "pinyin": "dākāi",
+        "francais": "ouvrir, allumer, mettre en marche"
+    },
+    {
+        "chinois": "打球",
+        "pinyin": "dǎqiú",
+        "francais": "jouer au ballon"
+    },
+    {
+        "chinois": "大",
+        "pinyin": "dà",
+        "francais": "grand, gros"
+    },
+    {
+        "chinois": "大学",
+        "pinyin": "dàxué",
+        "francais": "université"
+    },
+    {
+        "chinois": "大学生",
+        "pinyin": "dàxuéshēng",
+        "francais": "étudiant universitaire"
+    },
+    {
+        "chinois": "到",
+        "pinyin": "dào",
+        "francais": "arriver, vers/jusqu'à (un lieu), à (une période de temps), aller"
+    },
+    {
+        "chinois": "得到",
+        "pinyin": "dédào",
+        "francais": "obtenir, recevoir"
+    },
+    {
+        "chinois": "地",
+        "pinyin": "de",
+        "francais": "terminaison -ment, particule structurelle utilisée devant un verbe ou un adjectif, qui est liée au complément circonstanciel précédent"
+    },
+    {
+        "chinois": "的",
+        "pinyin": "de",
+        "francais": "particule structurelle, devant un substantif indique la possession ou un attribut descriptif"
+    },
+    {
+        "chinois": "等",
+        "pinyin": "děng",
+        "francais": "et cebera, attendre, degré, égal à"
+    },
+    {
+        "chinois": "弟弟",
+        "pinyin": "dìdi",
+        "francais": "petit frère"
+    },
+    {
+        "chinois": "地方",
+        "pinyin": "dìfang",
+        "francais": "lieu, région, régional"
+    },
+    {
+        "chinois": "地图",
+        "pinyin": "dìtú",
+        "francais": "carte"
+    },
+    {
+        "chinois": "点",
+        "pinyin": "diǎn",
+        "francais": "l'heure pile, petite quantité"
+    },
+    {
+        "chinois": "电",
+        "pinyin": "diàn",
+        "francais": "électrique, électricité"
+    },
+    {
+        "chinois": "电话",
+        "pinyin": "diànhuà",
+        "francais": "téléphone"
+    },
+    {
+        "chinois": "电脑",
+        "pinyin": "diànnǎo",
+        "francais": "ordinateur"
+    },
+    {
+        "chinois": "电视",
+        "pinyin": "diànshì",
+        "francais": "télévision"
+    },
+    {
+        "chinois": "电影",
+        "pinyin": "diànyǐng",
+        "francais": "film"
+    },
+    {
+        "chinois": "电影院",
+        "pinyin": "diànyǐngyuàn",
+        "francais": "cinéma, salle de cinéma"
+    },
+    {
+        "chinois": "东",
+        "pinyin": "dōng",
+        "francais": "est (les points cardinaux), hôte, propriétaire"
+    },
+    {
+        "chinois": "东边",
+        "pinyin": "dōngbiān",
+        "francais": "est, côté est, partie est, à l'est de"
+    },
+    {
+        "chinois": "东西",
+        "pinyin": "dōngxi",
+        "francais": "chose"
+    },
+    {
+        "chinois": "动",
+        "pinyin": "dòng",
+        "francais": "(qqch.) déplacer, mettre en mouvement, toucher"
+    },
+    {
+        "chinois": "动作",
+        "pinyin": "dòngzuò",
+        "francais": "mouvement, action"
+    },
+    {
+        "chinois": "都",
+        "pinyin": "dōu",
+        "francais": "tout, tous, tout le monde"
+    },
+    {
+        "chinois": "读",
+        "pinyin": "dú",
+        "francais": "lire, étudier"
+    },
+    {
+        "chinois": "读书",
+        "pinyin": "dúshū",
+        "francais": "lire un livre, étudier"
+    },
+    {
+        "chinois": "对",
+        "pinyin": "duì",
+        "francais": "correct, une paire, opposé, répondre, par rapport à, pour, à"
+    },
+    {
+        "chinois": "对不起",
+        "pinyin": "duìbuqǐ",
+        "francais": "désolé"
+    },
+    {
+        "chinois": "多",
+        "pinyin": "duō",
+        "francais": "beaucoup"
+    },
+    {
+        "chinois": "多少",
+        "pinyin": "duōshǎo",
+        "francais": "combien?"
+    },
+    {
+        "chinois": "饿",
+        "pinyin": "è",
+        "francais": "avoir faim, affamé"
+    },
+    {
+        "chinois": "儿子",
+        "pinyin": "érzi",
+        "francais": "fils"
+    },
+    {
+        "chinois": "二",
+        "pinyin": "èr",
+        "francais": "deux, 2"
+    },
+    {
+        "chinois": "饭",
+        "pinyin": "fàn",
+        "francais": "nourriture, cuisine, riz cuit, repas"
+    },
+    {
+        "chinois": "饭店",
+        "pinyin": "fàndiàn",
+        "francais": "restaurant, hôtel"
+    },
+    {
+        "chinois": "房间",
+        "pinyin": "fángjiān",
+        "francais": "chambre"
+    },
+    {
+        "chinois": "房子",
+        "pinyin": "fángzi",
+        "francais": "maison, immeuble (à un ou deux étages), appartement, pièce"
+    },
+    {
+        "chinois": "放",
+        "pinyin": "fàng",
+        "francais": "libérer, laisser aller, laisser sortir, placer, mettre"
+    },
+    {
+        "chinois": "放假",
+        "pinyin": "fàngjià",
+        "francais": "avoir un jour férié"
+    },
+    {
+        "chinois": "放学",
+        "pinyin": "fàngxué",
+        "francais": "après l'école, les cours sont terminés, l'école est terminée (pour la journée), quitter l'école"
+    },
+    {
+        "chinois": "飞",
+        "pinyin": "fēi",
+        "francais": "voler"
+    },
+    {
+        "chinois": "非常",
+        "pinyin": "fēicháng",
+        "francais": "beaucoup, extraordinairement"
+    },
+    {
+        "chinois": "飞机",
+        "pinyin": "fēijī",
+        "francais": "avion"
+    },
+    {
+        "chinois": "分",
+        "pinyin": "fēn",
+        "francais": "diviser, séparer, assigner, distinguer, partie sous division ou fraction, unité de longueur égale à 0.33 cm, minute, unité monétaire égale à 0.01 yuan"
+    },
+    {
+        "chinois": "风",
+        "pinyin": "fēng",
+        "francais": "vent"
+    },
+    {
+        "chinois": "干",
+        "pinyin": "gān",
+        "francais": "sec, propre, en vain, aliments secs, favoriser, adoptif, ignorer"
+    },
+    {
+        "chinois": "干净",
+        "pinyin": "gānjìng",
+        "francais": "propre, net"
+    },
+    {
+        "chinois": "高",
+        "pinyin": "gāo",
+        "francais": "grand, haut"
+    },
+    {
+        "chinois": "高兴",
+        "pinyin": "gāoxìng",
+        "francais": "content"
+    },
+    {
+        "chinois": "告诉",
+        "pinyin": "gàosu",
+        "francais": "dire, informer, faire savoir"
+    },
+    {
+        "chinois": "歌",
+        "pinyin": "gē",
+        "francais": "chanson"
+    },
+    {
+        "chinois": "哥哥",
+        "pinyin": "gēge",
+        "francais": "grand frère"
+    },
+    {
+        "chinois": "个",
+        "pinyin": "gè",
+        "francais": "CL: classificateur de gens et d'objets en général"
+    },
+    {
+        "chinois": "给",
+        "pinyin": "gěi",
+        "francais": "donner, permettre, pour (quelqu'un)"
+    },
+    {
+        "chinois": "跟",
+        "pinyin": "gēn",
+        "francais": "aller avec, avec, à, comme (comparativement à), de (différent de), et (aussi)"
+    },
+    {
+        "chinois": "工作",
+        "pinyin": "gōngzuò",
+        "francais": "travailler, travail"
+    },
+    {
+        "chinois": "关",
+        "pinyin": "guān",
+        "francais": "fermer, col de montagne, fermer, éteindre, préoccuper, impliquer, concerner"
+    },
+    {
+        "chinois": "关上",
+        "pinyin": "guānshang",
+        "francais": "fermer (une porte), éteindre (lumière, appareil électrique, etc.)"
+    },
+    {
+        "chinois": "贵",
+        "pinyin": "guì",
+        "francais": "cher"
+    },
+    {
+        "chinois": "国家",
+        "pinyin": "guójiā",
+        "francais": "pays, état, nation"
+    },
+    {
+        "chinois": "过",
+        "pinyin": "guò",
+        "francais": "croiser, passer (le temps), particule qui exprime une expérience antérieure"
+    },
+    {
+        "chinois": "还",
+        "pinyin": "hái",
+        "francais": "assez, plutôt, passable, en plus, aussi, même, encore, inclus"
+    },
+    {
+        "chinois": "还是",
+        "pinyin": "háishì",
+        "francais": "ou, cependant, encore"
+    },
+    {
+        "chinois": "还有",
+        "pinyin": "hái yǒu",
+        "francais": "en outre, de plus, encore, aussi"
+    },
+    {
+        "chinois": "孩子",
+        "pinyin": "háizi",
+        "francais": "enfant"
+    },
+    {
+        "chinois": "汉语",
+        "pinyin": "hànyǔ",
+        "francais": "le chinois"
+    },
+    {
+        "chinois": "汉字",
+        "pinyin": "hànzì",
+        "francais": "caractère chinois"
+    },
+    {
+        "chinois": "好",
+        "pinyin": "hǎo",
+        "francais": "bien, bon"
+    },
+    {
+        "chinois": "好吃",
+        "pinyin": "hǎochī",
+        "francais": "délicieux, savoureux"
+    },
+    {
+        "chinois": "好看",
+        "pinyin": "hǎokàn",
+        "francais": "beau, de belle apparence, bon (d'un film, d'un livre, d'une émission de télévision, etc.)"
+    },
+    {
+        "chinois": "好听",
+        "pinyin": "hǎotīng",
+        "francais": "agréable à écouter, mélodieux (chanson, voix, etc.)"
+    },
+    {
+        "chinois": "好玩儿",
+        "pinyin": "hǎowánr",
+        "francais": "drôle, intéressant, délicieux, amusant"
+    },
+    {
+        "chinois": "号",
+        "pinyin": "hào",
+        "francais": "numéro, jour du mois"
+    },
+    {
+        "chinois": "喝",
+        "pinyin": "hē",
+        "francais": "boire"
+    },
+    {
+        "chinois": "和",
+        "pinyin": "hé",
+        "francais": "et"
+    },
+    {
+        "chinois": "很",
+        "pinyin": "hěn",
+        "francais": "très"
+    },
+    {
+        "chinois": "后",
+        "pinyin": "hòu",
+        "francais": "derrière"
+    },
+    {
+        "chinois": "后边",
+        "pinyin": "hòubian",
+        "francais": "arrière, postérieur, derrière"
+    },
+    {
+        "chinois": "后天",
+        "pinyin": "hòutiān",
+        "francais": "après-demain"
+    },
+    {
+        "chinois": "花",
+        "pinyin": "huā",
+        "francais": "fleur"
+    },
+    {
+        "chinois": "话",
+        "pinyin": "huà",
+        "francais": "parler, mots, ce que quelqu'un a dit, conversation, mots prononcés, dialecte, langue"
+    },
+    {
+        "chinois": "坏",
+        "pinyin": "huài",
+        "francais": "abîmé, mauvais, rompu, casser"
+    },
+    {
+        "chinois": "还",
+        "pinyin": "huán",
+        "francais": "payer, rendre"
+    },
+    {
+        "chinois": "回",
+        "pinyin": "huí",
+        "francais": "revenir"
+    },
+    {
+        "chinois": "回答",
+        "pinyin": "huídá",
+        "francais": "répondre, répliquer"
+    },
+    {
+        "chinois": "回到",
+        "pinyin": "huídào",
+        "francais": "retourner à"
+    },
+    {
+        "chinois": "回家",
+        "pinyin": "huíjiā",
+        "francais": "rentrer à la maison"
+    },
+    {
+        "chinois": "回来",
+        "pinyin": "huílái",
+        "francais": "rentrer"
+    },
+    {
+        "chinois": "回去",
+        "pinyin": "huíqù",
+        "francais": "revenir, revenir en arrière"
+    },
+    {
+        "chinois": "会",
+        "pinyin": "huì",
+        "francais": "avoir la capacité de"
+    },
+    {
+        "chinois": "火车",
+        "pinyin": "huǒchē",
+        "francais": "train"
+    },
+    {
+        "chinois": "机场",
+        "pinyin": "jīchǎng",
+        "francais": "aéroport"
+    },
+    {
+        "chinois": "鸡蛋",
+        "pinyin": "jīdàn",
+        "francais": "œuf de poule"
+    },
+    {
+        "chinois": "机票",
+        "pinyin": "jīpiào",
+        "francais": "billet d'avion"
+    },
+    {
+        "chinois": "几",
+        "pinyin": "jǐ",
+        "francais": "quelques, combien"
+    },
+    {
+        "chinois": "记",
+        "pinyin": "jì",
+        "francais": "se souvenir, noter, marquer, signer, enregistrer"
+    },
+    {
+        "chinois": "记得",
+        "pinyin": "jìde",
+        "francais": "se rappeler"
+    },
+    {
+        "chinois": "记住",
+        "pinyin": "jìzhù",
+        "francais": "se souvenir, garder à l'esprit, apprendre par cœur"
+    },
+    {
+        "chinois": "家",
+        "pinyin": "jiā",
+        "francais": "foyer, maison, famille"
+    },
+    {
+        "chinois": "家里",
+        "pinyin": "jiālǐ",
+        "francais": "chez quelqu'un"
+    },
+    {
+        "chinois": "家人",
+        "pinyin": "jiārén",
+        "francais": "famille"
+    },
+    {
+        "chinois": "见",
+        "pinyin": "jiàn",
+        "francais": "voir, rencontrer, apparaître (être aggh), interview"
+    },
+    {
+        "chinois": "见面",
+        "pinyin": "jiànmiàn",
+        "francais": "rencontrer, voir"
+    },
+    {
+        "chinois": "教",
+        "pinyin": "jiāo",
+        "francais": "enseigner"
+    },
+    {
+        "chinois": "叫",
+        "pinyin": "jiào",
+        "francais": "s'appeler"
+    },
+    {
+        "chinois": "姐姐",
+        "pinyin": "jiějie",
+        "francais": "grande sœur"
+    },
+    {
+        "chinois": "介绍",
+        "pinyin": "jièshào",
+        "francais": "présenter, suggérer"
+    },
+    {
+        "chinois": "今年",
+        "pinyin": "jīnnián",
+        "francais": "cette année"
+    },
+    {
+        "chinois": "今天",
+        "pinyin": "jīntiān",
+        "francais": "aujourd'hui"
+    },
+    {
+        "chinois": "进",
+        "pinyin": "jìn",
+        "francais": "entrer, recevoir, admettre (quelqu'un)"
+    },
+    {
+        "chinois": "进来",
+        "pinyin": "jìnlái",
+        "francais": "entrer"
+    },
+    {
+        "chinois": "进去",
+        "pinyin": "jìnqù",
+        "francais": "entrer"
+    },
+    {
+        "chinois": "九",
+        "pinyin": "jiǔ",
+        "francais": "neuf, 9"
+    },
+    {
+        "chinois": "就",
+        "pinyin": "jiù",
+        "francais": "utilisé pour indiquer une conclusion ou une résolution, ici même, seulement, juste, déjà, puis"
+    },
+    {
+        "chinois": "觉得",
+        "pinyin": "juéde",
+        "francais": "penser, sentir"
+    },
+    {
+        "chinois": "开",
+        "pinyin": "kāi",
+        "francais": "ouvrir, commencer, conduire"
+    },
+    {
+        "chinois": "开车",
+        "pinyin": "kāichē",
+        "francais": "conduire une voiture"
+    },
+    {
+        "chinois": "开会",
+        "pinyin": "kāihuì",
+        "francais": "avoir une réunion, assister à une réunion"
+    },
+    {
+        "chinois": "开玩笑",
+        "pinyin": "kāiwánxiào",
+        "francais": "faire une blague, se moquer de, plaisanter"
+    },
+    {
+        "chinois": "看",
+        "pinyin": "kàn",
+        "francais": "voir, regarder, lire, examiner, considérer comme, pour visiter, pour s'occuper"
+    },
+    {
+        "chinois": "看病",
+        "pinyin": "kànbìng",
+        "francais": "voir un médecin"
+    },
+    {
+        "chinois": "看到",
+        "pinyin": "kàndào",
+        "francais": "voir"
+    },
+    {
+        "chinois": "看见",
+        "pinyin": "kànjiàn",
+        "francais": "regarder, apercevoir"
+    },
+    {
+        "chinois": "考",
+        "pinyin": "kǎo",
+        "francais": "tester, examiner, passer un examen, contrôler, vérifier"
+    },
+    {
+        "chinois": "考试",
+        "pinyin": "kǎoshì",
+        "francais": "examen"
+    },
+    {
+        "chinois": "渴",
+        "pinyin": "kě",
+        "francais": "assoiffé"
+    },
+    {
+        "chinois": "课",
+        "pinyin": "kè",
+        "francais": "leçon, cours, sujet"
+    },
+    {
+        "chinois": "课本",
+        "pinyin": "kèběn",
+        "francais": "cahier de textes"
+    },
+    {
+        "chinois": "课文",
+        "pinyin": "kèwén",
+        "francais": "texte"
+    },
+    {
+        "chinois": "口",
+        "pinyin": "kǒu",
+        "francais": "bouche, CL: pour les animaux ou les choses avec une bouche"
+    },
+    {
+        "chinois": "块",
+        "pinyin": "kuài",
+        "francais": "pièce, morceau, CL: vêtements, (familier) CL: pour l'argent et les unités monétaires"
+    },
+    {
+        "chinois": "快",
+        "pinyin": "kuài",
+        "francais": "rapide"
+    },
+    {
+        "chinois": "来",
+        "pinyin": "lái",
+        "francais": "venir"
+    },
+    {
+        "chinois": "来到",
+        "pinyin": "láidào",
+        "francais": "venir, arriver"
+    },
+    {
+        "chinois": "老",
+        "pinyin": "lǎo",
+        "francais": "vieux, vénérable, expérimenté, obsolète"
+    },
+    {
+        "chinois": "老师",
+        "pinyin": "lǎoshī",
+        "francais": "professeur, professeure"
+    },
+    {
+        "chinois": "了",
+        "pinyin": "le",
+        "francais": "particule modale, intensifie l'action précédente, indique un changement ou une action terminée"
+    },
+    {
+        "chinois": "累",
+        "pinyin": "lèi",
+        "francais": "fatigué, user, travailler dur"
+    },
+    {
+        "chinois": "冷",
+        "pinyin": "lěng",
+        "francais": "froid"
+    },
+    {
+        "chinois": "里",
+        "pinyin": "lǐ",
+        "francais": "dedans"
+    },
+    {
+        "chinois": "两",
+        "pinyin": "liǎng",
+        "francais": "tous les deux, certains, quelques, poids: 50 grammes"
+    },
+    {
+        "chinois": "零",
+        "pinyin": "líng",
+        "francais": "zéro, 0, ○"
+    },
+    {
+        "chinois": "六",
+        "pinyin": "liù",
+        "francais": "six, 6"
+    },
+    {
+        "chinois": "楼",
+        "pinyin": "lóu",
+        "francais": "bâtiment, maison avec plus d'un étage"
+    },
+    {
+        "chinois": "楼上",
+        "pinyin": "lóushang",
+        "francais": "étage"
+    },
+    {
+        "chinois": "楼下",
+        "pinyin": "lóuxià",
+        "francais": "en bas"
+    },
+    {
+        "chinois": "路",
+        "pinyin": "lù",
+        "francais": "route, rue, chemin"
+    },
+    {
+        "chinois": "路口",
+        "pinyin": "lùkǒu",
+        "francais": "croisement, intersection (de routes)"
+    },
+    {
+        "chinois": "路上",
+        "pinyin": "lùshang",
+        "francais": "sur la route, en voyage, surface de la route"
+    },
+    {
+        "chinois": "妈妈",
+        "pinyin": "māma",
+        "francais": "maman"
+    },
+    {
+        "chinois": "马路",
+        "pinyin": "mǎlù",
+        "francais": "rue, route"
+    },
+    {
+        "chinois": "马上",
+        "pinyin": "mǎshang",
+        "francais": "tout de suite, sur le champ"
+    },
+    {
+        "chinois": "买",
+        "pinyin": "mǎi",
+        "francais": "acheter"
+    },
+    {
+        "chinois": "慢",
+        "pinyin": "màn",
+        "francais": "lent"
+    },
+    {
+        "chinois": "忙",
+        "pinyin": "máng",
+        "francais": "occupé"
+    },
+    {
+        "chinois": "毛",
+        "pinyin": "máo",
+        "francais": "plume, cheveux, dessous, 10 centimes"
+    },
+    {
+        "chinois": "没",
+        "pinyin": "méi",
+        "francais": "(préfixe négatif pour les verbes), ne pas avoir, ne, pas"
+    },
+    {
+        "chinois": "没关系",
+        "pinyin": "méiguānxi",
+        "francais": "c'est pas grave, pas de soucis, il n'y a pas de quoi"
+    },
+    {
+        "chinois": "没什么",
+        "pinyin": "méishénme",
+        "francais": "rien, ce n'est pas grave, ce n'est rien, ne t'inquiète pas"
+    },
+    {
+        "chinois": "没事儿",
+        "pinyin": "méishìr",
+        "francais": "ce n'est rien, ne t'inquiète pas, ce n'est pas important"
+    },
+    {
+        "chinois": "没有",
+        "pinyin": "méiyǒu",
+        "francais": "n'ont pas, n'a pas, n'existe pas, à moins que"
+    },
+    {
+        "chinois": "妹妹",
+        "pinyin": "mèimei",
+        "francais": "petite sœur"
+    },
+    {
+        "chinois": "门",
+        "pinyin": "mén",
+        "francais": "porte"
+    },
+    {
+        "chinois": "门口",
+        "pinyin": "ménkǒu",
+        "francais": "porte"
+    },
+    {
+        "chinois": "门票",
+        "pinyin": "ménpiào",
+        "francais": "ticket d'entrée"
+    },
+    {
+        "chinois": "们",
+        "pinyin": "men",
+        "francais": "marqueur de pluriel pour les pronoms et les"
+    },
+    {
+        "chinois": "米饭",
+        "pinyin": "mǐfàn",
+        "francais": "riz cuit"
+    },
+    {
+        "chinois": "面包",
+        "pinyin": "miànbāo",
+        "francais": "pain"
+    },
+    {
+        "chinois": "面条儿",
+        "pinyin": "miàntiáor",
+        "francais": "nouilles"
+    },
+    {
+        "chinois": "明白",
+        "pinyin": "míngbai",
+        "francais": "clair, évident, sans équivoque, comprendre, réaliser"
+    },
+    {
+        "chinois": "明年",
+        "pinyin": "míngnián",
+        "francais": "l'année prochaine"
+    },
+    {
+        "chinois": "明天",
+        "pinyin": "míngtiān",
+        "francais": "demain"
+    },
+    {
+        "chinois": "名字",
+        "pinyin": "míngzi",
+        "francais": "nom"
+    },
+    {
+        "chinois": "拿",
+        "pinyin": "ná",
+        "francais": "prendre, maintenir, s'emparer, abbraper, saisir"
+    },
+    {
+        "chinois": "哪",
+        "pinyin": "nǎ",
+        "francais": "quel"
+    },
+    {
+        "chinois": "哪里",
+        "pinyin": "nǎlǐ",
+        "francais": "où?"
+    },
+    {
+        "chinois": "哪儿",
+        "pinyin": "nǎr",
+        "francais": "où, où?"
+    },
+    {
+        "chinois": "哪些",
+        "pinyin": "nǎxiē",
+        "francais": "lesquels?, Qui?, quoi?"
+    },
+    {
+        "chinois": "那",
+        "pinyin": "nà",
+        "francais": "ce, celui-là"
+    },
+    {
+        "chinois": "那边",
+        "pinyin": "nàbiān",
+        "francais": "là, par là, là-bas"
+    },
+    {
+        "chinois": "那里",
+        "pinyin": "nàlǐ",
+        "francais": "là, à cet endroit"
+    },
+    {
+        "chinois": "那儿",
+        "pinyin": "nàr",
+        "francais": "là, là-bas"
+    },
+    {
+        "chinois": "那些",
+        "pinyin": "nàxiē",
+        "francais": "ces"
+    },
+    {
+        "chinois": "奶",
+        "pinyin": "nǎi",
+        "francais": "lait, grand-mère"
+    },
+    {
+        "chinois": "奶奶",
+        "pinyin": "nǎinai",
+        "francais": "grand-mère paternelle"
+    },
+    {
+        "chinois": "男",
+        "pinyin": "nán",
+        "francais": "mâle"
+    },
+    {
+        "chinois": "南",
+        "pinyin": "nán",
+        "francais": "sud"
+    },
+    {
+        "chinois": "难",
+        "pinyin": "nán",
+        "francais": "difficile, problème, difficulté, pas bon"
+    },
+    {
+        "chinois": "男孩儿",
+        "pinyin": "nánháir",
+        "francais": "garçon"
+    },
+    {
+        "chinois": "男朋友",
+        "pinyin": "nánpéngyou",
+        "francais": "ami, petit ami"
+    },
+    {
+        "chinois": "男人",
+        "pinyin": "nánrén",
+        "francais": "un homme, un mâle, des hommes"
+    },
+    {
+        "chinois": "男生",
+        "pinyin": "nánshēng",
+        "francais": "garçon"
+    },
+    {
+        "chinois": "呢",
+        "pinyin": "ne",
+        "francais": "particule pour demander un avis, un emplacement, une affirmation, etc"
+    },
+    {
+        "chinois": "能",
+        "pinyin": "néng",
+        "francais": "pouvoir, avoir la capacité de"
+    },
+    {
+        "chinois": "你",
+        "pinyin": "nǐ",
+        "francais": "tu"
+    },
+    {
+        "chinois": "你们",
+        "pinyin": "nǐmen",
+        "francais": "vous (pluriel)"
+    },
+    {
+        "chinois": "年",
+        "pinyin": "nián",
+        "francais": "an, année"
+    },
+    {
+        "chinois": "您",
+        "pinyin": "nín",
+        "francais": "vous"
+    },
+    {
+        "chinois": "牛奶",
+        "pinyin": "niúnǎi",
+        "francais": "lait de vache"
+    },
+    {
+        "chinois": "女",
+        "pinyin": "nǚ",
+        "francais": "femme, femelle, fille"
+    },
+    {
+        "chinois": "女儿",
+        "pinyin": "nǚ'ér",
+        "francais": "fille"
+    },
+    {
+        "chinois": "女孩儿",
+        "pinyin": "nǚháir",
+        "francais": "fille"
+    },
+    {
+        "chinois": "女朋友",
+        "pinyin": "nǚpéngyou",
+        "francais": "amie, petite amie"
+    },
+    {
+        "chinois": "女人",
+        "pinyin": "nǚrén",
+        "francais": "femme"
+    },
+    {
+        "chinois": "女生",
+        "pinyin": "nǚshēng",
+        "francais": "fille"
+    },
+    {
+        "chinois": "旁边",
+        "pinyin": "pángbiān",
+        "francais": "à côté"
+    },
+    {
+        "chinois": "跑",
+        "pinyin": "pǎo",
+        "francais": "courir, s'échapper, la course"
+    },
+    {
+        "chinois": "朋友",
+        "pinyin": "péngyou",
+        "francais": "ami"
+    },
+    {
+        "chinois": "票",
+        "pinyin": "piào",
+        "francais": "ticket, entrée, CL: envois et transactions commerciales"
+    },
+    {
+        "chinois": "七",
+        "pinyin": "qī",
+        "francais": "sept, 7"
+    },
+    {
+        "chinois": "起",
+        "pinyin": "qǐ",
+        "francais": "se lever, partir, commencer, (s)élever, augmenter, initier (action), suffixe verbal, débuter, (avant le lieu ou le temps) à partir de, CL: pour les occurrences ou les événements imprévisibles: cas, exemple, CL: pour les groupes: lot, groupe"
+    },
+    {
+        "chinois": "起床",
+        "pinyin": "qǐchuáng",
+        "francais": "se réveiller"
+    },
+    {
+        "chinois": "起来",
+        "pinyin": "qǐlái",
+        "francais": "se lever, commencer ou poursuivre une action, mouvement ascendant"
+    },
+    {
+        "chinois": "汽车",
+        "pinyin": "qìchē",
+        "francais": "voiture, automobile, bus"
+    },
+    {
+        "chinois": "前",
+        "pinyin": "qián",
+        "francais": "devant, en face de"
+    },
+    {
+        "chinois": "钱",
+        "pinyin": "qián",
+        "francais": "l'argent"
+    },
+    {
+        "chinois": "钱包",
+        "pinyin": "qiánbāo",
+        "francais": "porte-monnaie, portefeuille"
+    },
+    {
+        "chinois": "前边",
+        "pinyin": "qiánbiān",
+        "francais": "avant, le côté avant, devant (qqch.)"
+    },
+    {
+        "chinois": "前天",
+        "pinyin": "qiántiān",
+        "francais": "avant-hier"
+    },
+    {
+        "chinois": "请",
+        "pinyin": "qǐng",
+        "francais": "question ou invitation à faire quelque chose"
+    },
+    {
+        "chinois": "请假",
+        "pinyin": "qǐngjià",
+        "francais": "demander du temps libre"
+    },
+    {
+        "chinois": "请进",
+        "pinyin": "qǐngjìn",
+        "francais": "entrez, s'il vous plaît"
+    },
+    {
+        "chinois": "请问",
+        "pinyin": "qǐngwèn",
+        "francais": "excusez-moi"
+    },
+    {
+        "chinois": "请坐",
+        "pinyin": "qǐngzuò",
+        "francais": "asseyez-vous s'il vous plaît"
+    },
+    {
+        "chinois": "球",
+        "pinyin": "qiú",
+        "francais": "balle, sphère, ballon, jeu de balle, partie (sport)"
+    },
+    {
+        "chinois": "去",
+        "pinyin": "qù",
+        "francais": "aller"
+    },
+    {
+        "chinois": "去年",
+        "pinyin": "qùnián",
+        "francais": "l'année dernière"
+    },
+    {
+        "chinois": "热",
+        "pinyin": "rè",
+        "francais": "chaud, chaleur"
+    },
+    {
+        "chinois": "人",
+        "pinyin": "rén",
+        "francais": "personne, gens"
+    },
+    {
+        "chinois": "认识",
+        "pinyin": "rènshi",
+        "francais": "savoir, reconnaître, être habitué avec"
+    },
+    {
+        "chinois": "认真",
+        "pinyin": "rènzhēn",
+        "francais": "sérieux, consciencieux, prendre au sérieux"
+    },
+    {
+        "chinois": "日",
+        "pinyin": "rì",
+        "francais": "soleil, jour"
+    },
+    {
+        "chinois": "日期",
+        "pinyin": "rìqī",
+        "francais": "date"
+    },
+    {
+        "chinois": "肉",
+        "pinyin": "ròu",
+        "francais": "viande, pulpe (d'un fruit)"
+    },
+    {
+        "chinois": "三",
+        "pinyin": "sān",
+        "francais": "trois, 3"
+    },
+    {
+        "chinois": "山",
+        "pinyin": "shān",
+        "francais": "montagne, colline"
+    },
+    {
+        "chinois": "商场",
+        "pinyin": "shāngchǎng",
+        "francais": "centre commercial, marché, bazar"
+    },
+    {
+        "chinois": "商店",
+        "pinyin": "shāngdiàn",
+        "francais": "boutique"
+    },
+    {
+        "chinois": "上",
+        "pinyin": "shàng",
+        "francais": "sur, dessus"
+    },
+    {
+        "chinois": "上班",
+        "pinyin": "shàngbān",
+        "francais": "aller au travail, commencer à travailler"
+    },
+    {
+        "chinois": "上边",
+        "pinyin": "shàngbiān",
+        "francais": "en haut, dessus"
+    },
+    {
+        "chinois": "上车",
+        "pinyin": "shàngchē",
+        "francais": "monter dans (un bus, un train, une voiture, etc.)"
+    },
+    {
+        "chinois": "上次",
+        "pinyin": "shàngcì",
+        "francais": "la dernière fois"
+    },
+    {
+        "chinois": "上课",
+        "pinyin": "shàngkè",
+        "francais": "aller en classe, assister à un cours, aller donner un cours"
+    },
+    {
+        "chinois": "上网",
+        "pinyin": "shàngwǎng",
+        "francais": "surfer sur Internet"
+    },
+    {
+        "chinois": "上午",
+        "pinyin": "shàngwǔ",
+        "francais": "matin"
+    },
+    {
+        "chinois": "上学",
+        "pinyin": "shàngxué",
+        "francais": "aller à l'école, être à l'école"
+    },
+    {
+        "chinois": "少",
+        "pinyin": "shǎo",
+        "francais": "peu"
+    },
+    {
+        "chinois": "谁",
+        "pinyin": "shéi",
+        "francais": "qui"
+    },
+    {
+        "chinois": "身体",
+        "pinyin": "shēntǐ",
+        "francais": "le corps, santé"
+    },
+    {
+        "chinois": "什么",
+        "pinyin": "shénme",
+        "francais": "que?, quelque chose"
+    },
+    {
+        "chinois": "生病",
+        "pinyin": "shēngbìng",
+        "francais": "tomber malade"
+    },
+    {
+        "chinois": "生气",
+        "pinyin": "shēngqì",
+        "francais": "fâché, folle, fou, offensé, se fâcher, s'emporter, s'offenser, animation"
+    },
+    {
+        "chinois": "生日",
+        "pinyin": "shēngrì",
+        "francais": "anniversaire"
+    },
+    {
+        "chinois": "十",
+        "pinyin": "shí",
+        "francais": "dix, 10"
+    },
+    {
+        "chinois": "时候",
+        "pinyin": "shíhou",
+        "francais": "moment, période du temps"
+    },
+    {
+        "chinois": "时间",
+        "pinyin": "shíjiān",
+        "francais": "temps, période"
+    },
+    {
+        "chinois": "事",
+        "pinyin": "shì",
+        "francais": "matière, chose, objet, travail, affaire"
+    },
+    {
+        "chinois": "试",
+        "pinyin": "shì",
+        "francais": "essayer, tester, expérience, examen, test"
+    },
+    {
+        "chinois": "是",
+        "pinyin": "shì",
+        "francais": "être, oui, si"
+    },
+    {
+        "chinois": "是不是",
+        "pinyin": "shìbúshì",
+        "francais": "est ou n'est pas, oui ou non, si.. ou non"
+    },
+    {
+        "chinois": "手",
+        "pinyin": "shǒu",
+        "francais": "main"
+    },
+    {
+        "chinois": "手机",
+        "pinyin": "shǒujī",
+        "francais": "téléphone portable"
+    },
+    {
+        "chinois": "书",
+        "pinyin": "shū",
+        "francais": "livre"
+    },
+    {
+        "chinois": "书包",
+        "pinyin": "shūbāo",
+        "francais": "sac à dos, sac d'école, sac de livres"
+    },
+    {
+        "chinois": "书店",
+        "pinyin": "shūdiàn",
+        "francais": "librairie"
+    },
+    {
+        "chinois": "树",
+        "pinyin": "shù",
+        "francais": "arbre"
+    },
+    {
+        "chinois": "水",
+        "pinyin": "shuǐ",
+        "francais": "l'eau"
+    },
+    {
+        "chinois": "水果",
+        "pinyin": "shuǐguǒ",
+        "francais": "fruit"
+    },
+    {
+        "chinois": "睡",
+        "pinyin": "shuì",
+        "francais": "dormir"
+    },
+    {
+        "chinois": "睡觉",
+        "pinyin": "shuìjiào",
+        "francais": "dormir"
+    },
+    {
+        "chinois": "说",
+        "pinyin": "shuō",
+        "francais": "parler, dire, expliquer, gronder, reprocher"
+    },
+    {
+        "chinois": "说话",
+        "pinyin": "shuōhuà",
+        "francais": "parler"
+    },
+    {
+        "chinois": "四",
+        "pinyin": "sì",
+        "francais": "quatre, 4"
+    },
+    {
+        "chinois": "送",
+        "pinyin": "sòng",
+        "francais": "offrir, livrer"
+    },
+    {
+        "chinois": "岁",
+        "pinyin": "suì",
+        "francais": "ans (âge)"
+    },
+    {
+        "chinois": "他",
+        "pinyin": "tā",
+        "francais": "il"
+    },
+    {
+        "chinois": "她",
+        "pinyin": "tā",
+        "francais": "elle"
+    },
+    {
+        "chinois": "他们",
+        "pinyin": "tāmen",
+        "francais": "ils, eux, à eux"
+    },
+    {
+        "chinois": "她们",
+        "pinyin": "tāmen",
+        "francais": "elles, à elles (pour les femmes)"
+    },
+    {
+        "chinois": "太",
+        "pinyin": "tài",
+        "francais": "trop, excessivement"
+    },
+    {
+        "chinois": "天",
+        "pinyin": "tiān",
+        "francais": "jour, ciel, paradis"
+    },
+    {
+        "chinois": "天气",
+        "pinyin": "tiānqì",
+        "francais": "temps (climat)"
+    },
+    {
+        "chinois": "听",
+        "pinyin": "tīng",
+        "francais": "écouter"
+    },
+    {
+        "chinois": "听到",
+        "pinyin": "tīngdào",
+        "francais": "entendre"
+    },
+    {
+        "chinois": "听见",
+        "pinyin": "tīngjiàn",
+        "francais": "entendre"
+    },
+    {
+        "chinois": "听写",
+        "pinyin": "tīngxiě",
+        "francais": "dicter, dictée"
+    },
+    {
+        "chinois": "同学",
+        "pinyin": "tóngxué",
+        "francais": "camarade de classe"
+    },
+    {
+        "chinois": "图书馆",
+        "pinyin": "túshūguǎn",
+        "francais": "bibliothèque"
+    },
+    {
+        "chinois": "外",
+        "pinyin": "wài",
+        "francais": "à l'extérieur, étranger"
+    },
+    {
+        "chinois": "外边",
+        "pinyin": "wàibian",
+        "francais": "extérieur, surface extérieure, étranger, un lieu autre que son domicile"
+    },
+    {
+        "chinois": "外国",
+        "pinyin": "wàiguó",
+        "francais": "étranger (pays)"
+    },
+    {
+        "chinois": "外语",
+        "pinyin": "wàiyǔ",
+        "francais": "langue étrangère"
+    },
+    {
+        "chinois": "玩儿",
+        "pinyin": "wánr",
+        "francais": "jouer, s'amuser"
+    },
+    {
+        "chinois": "晚",
+        "pinyin": "wǎn",
+        "francais": "soir, nuit, tard"
+    },
+    {
+        "chinois": "晚饭",
+        "pinyin": "wǎnfàn",
+        "francais": "dîner"
+    },
+    {
+        "chinois": "晚上",
+        "pinyin": "wǎnshang",
+        "francais": "dans l'après-midi/la nuit"
+    },
+    {
+        "chinois": "网上",
+        "pinyin": "wǎngshang",
+        "francais": "en ligne, sur internet"
+    },
+    {
+        "chinois": "网友",
+        "pinyin": "wǎngyǒu",
+        "francais": "relation de réseau social, ami en ligne, internaute"
+    },
+    {
+        "chinois": "忘",
+        "pinyin": "wàng",
+        "francais": "oublier"
+    },
+    {
+        "chinois": "忘记",
+        "pinyin": "wàngjì",
+        "francais": "oublier"
+    },
+    {
+        "chinois": "问",
+        "pinyin": "wèn",
+        "francais": "interroger"
+    },
+    {
+        "chinois": "我",
+        "pinyin": "wǒ",
+        "francais": "je, me, mon"
+    },
+    {
+        "chinois": "我们",
+        "pinyin": "wǒmen",
+        "francais": "nous, notre"
+    },
+    {
+        "chinois": "五",
+        "pinyin": "wǔ",
+        "francais": "cinq, 5"
+    },
+    {
+        "chinois": "午饭",
+        "pinyin": "wǔfàn",
+        "francais": "déjeuner"
+    },
+    {
+        "chinois": "西",
+        "pinyin": "xī",
+        "francais": "ouest"
+    },
+    {
+        "chinois": "西边",
+        "pinyin": "xībiān",
+        "francais": "ouest, côté ouest, partie ouest, à l'ouest de"
+    },
+    {
+        "chinois": "洗",
+        "pinyin": "xǐ",
+        "francais": "laver, se baigner"
+    },
+    {
+        "chinois": "喜欢",
+        "pinyin": "xǐhuan",
+        "francais": "aimer (apprécier)"
+    },
+    {
+        "chinois": "洗手间",
+        "pinyin": "xǐshǒujiān",
+        "francais": "toilettes, sanitaires, bain"
+    },
+    {
+        "chinois": "下",
+        "pinyin": "xià",
+        "francais": "dessous, plus tard, suivant"
+    },
+    {
+        "chinois": "下班",
+        "pinyin": "xiàbān",
+        "francais": "après le travail, hors service"
+    },
+    {
+        "chinois": "下边",
+        "pinyin": "xiàbiān",
+        "francais": "sous, le dessous, en dessous de"
+    },
+    {
+        "chinois": "下车",
+        "pinyin": "xiàchē",
+        "francais": "descendre d'un bus, d'un train, etc., sortir d'une voiture"
+    },
+    {
+        "chinois": "下次",
+        "pinyin": "xiàcì",
+        "francais": "la prochaine fois"
+    },
+    {
+        "chinois": "下课",
+        "pinyin": "xiàkè",
+        "francais": "après la classe, terminer la classe, sortir de classe"
+    },
+    {
+        "chinois": "下午",
+        "pinyin": "xiàwǔ",
+        "francais": "après-midi"
+    },
+    {
+        "chinois": "下雨",
+        "pinyin": "xiàyǔ",
+        "francais": "pleuvoir, pluvieux"
+    },
+    {
+        "chinois": "先",
+        "pinyin": "xiān",
+        "francais": "d'abord, à l'avance, tôt, précédent, antérieure"
+    },
+    {
+        "chinois": "先生",
+        "pinyin": "xiānsheng",
+        "francais": "monsieur, mari"
+    },
+    {
+        "chinois": "现在",
+        "pinyin": "xiànzài",
+        "francais": "maintenant"
+    },
+    {
+        "chinois": "想",
+        "pinyin": "xiǎng",
+        "francais": "vouloir, penser, désirer"
+    },
+    {
+        "chinois": "小",
+        "pinyin": "xiǎo",
+        "francais": "petit, jeune"
+    },
+    {
+        "chinois": "小孩儿",
+        "pinyin": "xiǎoháir",
+        "francais": "enfant"
+    },
+    {
+        "chinois": "小姐",
+        "pinyin": "xiǎojiě",
+        "francais": "jeune femme, mademoiselle, (argot) prostituée"
+    },
+    {
+        "chinois": "小朋友",
+        "pinyin": "xiǎopéngyǒu",
+        "francais": "enfant"
+    },
+    {
+        "chinois": "小时",
+        "pinyin": "xiǎoshí",
+        "francais": "heure"
+    },
+    {
+        "chinois": "小学",
+        "pinyin": "xiǎoxué",
+        "francais": "école primaire"
+    },
+    {
+        "chinois": "小学生",
+        "pinyin": "xiǎoxuéshēng",
+        "francais": "élève de l'école primaire, écolier"
+    },
+    {
+        "chinois": "笑",
+        "pinyin": "xiào",
+        "francais": "rire, sourire"
+    },
+    {
+        "chinois": "写",
+        "pinyin": "xiě",
+        "francais": "écrire"
+    },
+    {
+        "chinois": "谢谢",
+        "pinyin": "xièxie",
+        "francais": "merci"
+    },
+    {
+        "chinois": "新",
+        "pinyin": "xīn",
+        "francais": "nouveau"
+    },
+    {
+        "chinois": "新年",
+        "pinyin": "xīnnián",
+        "francais": "nouvel an"
+    },
+    {
+        "chinois": "星期",
+        "pinyin": "xīngqī",
+        "francais": "semaine"
+    },
+    {
+        "chinois": "星期日",
+        "pinyin": "xīngqīrì",
+        "francais": "dimanche"
+    },
+    {
+        "chinois": "星期天",
+        "pinyin": "xīngqītiān",
+        "francais": "dimanche"
+    },
+    {
+        "chinois": "行",
+        "pinyin": "xíng",
+        "francais": "être bien, marcher, aller, voyager, une visite, temporairement, improvisé, courant, en circulation, faire, réaliser, capable, compétent, effectif, ok"
+    },
+    {
+        "chinois": "休息",
+        "pinyin": "xiūxi",
+        "francais": "se reposer, repos"
+    },
+    {
+        "chinois": "学",
+        "pinyin": "xué",
+        "francais": "apprendre, étudier"
+    },
+    {
+        "chinois": "学生",
+        "pinyin": "xuéshēng",
+        "francais": "étudiant"
+    },
+    {
+        "chinois": "学习",
+        "pinyin": "xuéxí",
+        "francais": "étudier"
+    },
+    {
+        "chinois": "学校",
+        "pinyin": "xuéxiào",
+        "francais": "école"
+    },
+    {
+        "chinois": "学院",
+        "pinyin": "xuéyuàn",
+        "francais": "collège, institut d'enseignement, école, faculté"
+    },
+    {
+        "chinois": "要",
+        "pinyin": "yào",
+        "francais": "importante, vouloir, j'aimerais, va (futur proche), pouvoir, devoir"
+    },
+    {
+        "chinois": "爷爷",
+        "pinyin": "yéye",
+        "francais": "grand-père paternel"
+    },
+    {
+        "chinois": "也",
+        "pinyin": "yě",
+        "francais": "aussi"
+    },
+    {
+        "chinois": "页",
+        "pinyin": "yè",
+        "francais": "page, feuille"
+    },
+    {
+        "chinois": "一",
+        "pinyin": "yī",
+        "francais": "un, 1, un/une"
+    },
+    {
+        "chinois": "衣服",
+        "pinyin": "yīfu",
+        "francais": "vêtements"
+    },
+    {
+        "chinois": "医生",
+        "pinyin": "yīshēng",
+        "francais": "docteur"
+    },
+    {
+        "chinois": "医院",
+        "pinyin": "yīyuàn",
+        "francais": "hôpital"
+    },
+    {
+        "chinois": "一半",
+        "pinyin": "yíbàn",
+        "francais": "moitié"
+    },
+    {
+        "chinois": "一会儿",
+        "pinyin": "yíhuìr",
+        "francais": "un moment"
+    },
+    {
+        "chinois": "一块儿",
+        "pinyin": "yíkuàir",
+        "francais": "un morceau de"
+    },
+    {
+        "chinois": "一下儿",
+        "pinyin": "yíxiàr",
+        "francais": "(utilisé après un verbe) essayer, faire (qqch brièvement pour l'essayer), une fois, dans un petit moment, soudain, bout à la fois"
+    },
+    {
+        "chinois": "一样",
+        "pinyin": "yíyàng",
+        "francais": "comme, égale à, le même que, de la même façon que"
+    },
+    {
+        "chinois": "一边",
+        "pinyin": "yìbiān",
+        "francais": "un côté, chaque côté, d'un côté, d'autre part, pendant que"
+    },
+    {
+        "chinois": "一点儿",
+        "pinyin": "yìdiǎnr",
+        "francais": "un peu, un peu de, un point de, variante de一点"
+    },
+    {
+        "chinois": "一起",
+        "pinyin": "yìqǐ",
+        "francais": "ensemble, avec"
+    },
+    {
+        "chinois": "一些",
+        "pinyin": "yìxiē",
+        "francais": "certains, quelques, un peu"
+    },
+    {
+        "chinois": "用",
+        "pinyin": "yòng",
+        "francais": "utiliser, employer, devoir, manger ou boire, dépense ou versement, utilité, donc"
+    },
+    {
+        "chinois": "有",
+        "pinyin": "yǒu",
+        "francais": "avoir, il y a"
+    },
+    {
+        "chinois": "有的",
+        "pinyin": "yǒude",
+        "francais": "(il y a) quelques (qui sont...), quelques (existent)"
+    },
+    {
+        "chinois": "有名",
+        "pinyin": "yǒumíng",
+        "francais": "célèbre, connu"
+    },
+    {
+        "chinois": "有时候",
+        "pinyin": "yǒushíhòu",
+        "francais": "parfois"
+    },
+    {
+        "chinois": "有些",
+        "pinyin": "yǒuxiē",
+        "francais": "un peu, quelque peu"
+    },
+    {
+        "chinois": "有用",
+        "pinyin": "yǒuyòng",
+        "francais": "utile"
+    },
+    {
+        "chinois": "右",
+        "pinyin": "yòu",
+        "francais": "droit, à droite, côté droit"
+    },
+    {
+        "chinois": "右边",
+        "pinyin": "yòubian",
+        "francais": "droit, à droite, côté droit"
+    },
+    {
+        "chinois": "雨",
+        "pinyin": "yǔ",
+        "francais": "pluie"
+    },
+    {
+        "chinois": "元",
+        "pinyin": "yuán",
+        "francais": "unité de monnaie chinoise, premier"
+    },
+    {
+        "chinois": "远",
+        "pinyin": "yuǎn",
+        "francais": "loin, éloigné, lointain"
+    },
+    {
+        "chinois": "月",
+        "pinyin": "yuè",
+        "francais": "lune, mois"
+    },
+    {
+        "chinois": "再",
+        "pinyin": "zài",
+        "francais": "de nouveau, alors, encore une fois, autre fois"
+    },
+    {
+        "chinois": "在",
+        "pinyin": "zài",
+        "francais": "à, dans"
+    },
+    {
+        "chinois": "在家",
+        "pinyin": "zàijiā",
+        "francais": "à la maison"
+    },
+    {
+        "chinois": "再见",
+        "pinyin": "zàijiàn",
+        "francais": "au revoir"
+    },
+    {
+        "chinois": "早",
+        "pinyin": "zǎo",
+        "francais": "tôt, matin, Bonjour!"
+    },
+    {
+        "chinois": "早饭",
+        "pinyin": "zǎofàn",
+        "francais": "petit-déjeuner"
+    },
+    {
+        "chinois": "早上",
+        "pinyin": "zǎoshang",
+        "francais": "matin, tôt le matin"
+    },
+    {
+        "chinois": "怎么",
+        "pinyin": "zěnme",
+        "francais": "comment?"
+    },
+    {
+        "chinois": "站",
+        "pinyin": "zhàn",
+        "francais": "station, se tenir debout, stopper, arrêter, branche d'une société ou d'une organisation"
+    },
+    {
+        "chinois": "找",
+        "pinyin": "zhǎo",
+        "francais": "chercher, trouver, rendre"
+    },
+    {
+        "chinois": "找到",
+        "pinyin": "zhǎodào",
+        "francais": "trouver"
+    },
+    {
+        "chinois": "这",
+        "pinyin": "zhè",
+        "francais": "celui-ci, celui-là"
+    },
+    {
+        "chinois": "这边",
+        "pinyin": "zhèbiān",
+        "francais": "ici, par ici, de ce côté"
+    },
+    {
+        "chinois": "这里",
+        "pinyin": "zhèlǐ",
+        "francais": "ici"
+    },
+    {
+        "chinois": "这儿",
+        "pinyin": "zhèr",
+        "francais": "ici"
+    },
+    {
+        "chinois": "这些",
+        "pinyin": "zhèxiē",
+        "francais": "ces"
+    },
+    {
+        "chinois": "着",
+        "pinyin": "zhe",
+        "francais": "particule ajoutée après un verbe pour indiquer que l'action est encore en cours, comme la terminaison -ant, utilisé pour indiquer un état"
+    },
+    {
+        "chinois": "真",
+        "pinyin": "zhēn",
+        "francais": "réellement, vraiment, authentique"
+    },
+    {
+        "chinois": "真的",
+        "pinyin": "zhēnde",
+        "francais": "vraiment, sérieusement, réel, vrai, pour de vrai"
+    },
+    {
+        "chinois": "正",
+        "pinyin": "zhèng",
+        "francais": "situé au centre, exactement, correct, pur"
+    },
+    {
+        "chinois": "正在",
+        "pinyin": "zhèngzài",
+        "francais": "dans le processus de, pendant que"
+    },
+    {
+        "chinois": "知道",
+        "pinyin": "zhīdào",
+        "francais": "savoir"
+    },
+    {
+        "chinois": "知识",
+        "pinyin": "zhīshi",
+        "francais": "connaissance, intellectuel"
+    },
+    {
+        "chinois": "中",
+        "pinyin": "zhōng",
+        "francais": "dans, parmi, au, milieu, centre, pendant, Chine, chinois"
+    },
+    {
+        "chinois": "中国",
+        "pinyin": "Zhōngguó",
+        "francais": "Chine"
+    },
+    {
+        "chinois": "中间",
+        "pinyin": "zhōngjiān",
+        "francais": "entre, intermédiaire, demi, milieu"
+    },
+    {
+        "chinois": "中文",
+        "pinyin": "zhōngwén",
+        "francais": "langue chinoise écrite"
+    },
+    {
+        "chinois": "中午",
+        "pinyin": "zhōngwǔ",
+        "francais": "midi"
+    },
+    {
+        "chinois": "中学",
+        "pinyin": "zhōngxué",
+        "francais": "collège"
+    },
+    {
+        "chinois": "中学生",
+        "pinyin": "zhōngxuéshēng",
+        "francais": "élève du collège, élève du lycée"
+    },
+    {
+        "chinois": "重",
+        "pinyin": "zhòng",
+        "francais": "grave, lourd"
+    },
+    {
+        "chinois": "重要",
+        "pinyin": "zhòngyào",
+        "francais": "important, significatif, principal"
+    },
+    {
+        "chinois": "住",
+        "pinyin": "zhù",
+        "francais": "vivre"
+    },
+    {
+        "chinois": "准备",
+        "pinyin": "zhǔnbèi",
+        "francais": "préparation, préparer"
+    },
+    {
+        "chinois": "桌子",
+        "pinyin": "zhuōzi",
+        "francais": "table"
+    },
+    {
+        "chinois": "字",
+        "pinyin": "zì",
+        "francais": "mot, caractère, symbole"
+    },
+    {
+        "chinois": "走",
+        "pinyin": "zǒu",
+        "francais": "marcher"
+    },
+    {
+        "chinois": "走路",
+        "pinyin": "zǒulù",
+        "francais": "marcher, aller à pied"
+    },
+    {
+        "chinois": "最",
+        "pinyin": "zuì",
+        "francais": "plus, le plus, superlatif"
+    },
+    {
+        "chinois": "最好",
+        "pinyin": "zuìhǎo",
+        "francais": "(vous) feriez mieux de (faire ce que nous proposons), meilleur"
+    },
+    {
+        "chinois": "最后",
+        "pinyin": "zuìhòu",
+        "francais": "final, dernier, finalement"
+    },
+    {
+        "chinois": "昨天",
+        "pinyin": "zuótiān",
+        "francais": "hier"
+    },
+    {
+        "chinois": "左",
+        "pinyin": "zuǒ",
+        "francais": "gauche, à gauche, côté gauche"
+    },
+    {
+        "chinois": "左边",
+        "pinyin": "zuǒbiān",
+        "francais": "gauche, à gauche, côté gauche"
+    },
+    {
+        "chinois": "坐",
+        "pinyin": "zuò",
+        "francais": "s'asseoir, prendre (l'avion, l'autobus, etc.), CL: pour les bâtiments, les montagnes et les objets immobiliers similaires"
+    },
+    {
+        "chinois": "做",
+        "pinyin": "zuò",
+        "francais": "faire"
+    },
+    {
+        "chinois": "学下",
+        "pinyin": "zuòxia",
+        "francais": "s'asseoir"
+    }
+]
+
+,
+"questions": [
+  { "chinois": "谁", "pinyin": "shéi", "francais": "qui",
+    "exemple": "这是谁？(Zhè shì shéi?) → Qui est-ce ?" },
+
+  { "chinois": "什么", "pinyin": "shén me", "francais": "quoi / quel",
+    "exemple": "你在做什么？(Nǐ zài zuò shén me?) → Que fais-tu ?" },
+
+  { "chinois": "哪", "pinyin": "nǎ", "francais": "quel / lequel / où",
+    "exemple": "你住在哪？(Nǐ zhù zài nǎ?) → Où habites-tu ?" },
+
+  { "chinois": "哪里", "pinyin": "nǎ lǐ", "francais": "où",
+    "exemple": "厕所在哪里？(Cè suǒ zài nǎ lǐ?) → Où sont les toilettes ?" },
+
+  { "chinois": "几", "pinyin": "jǐ", "francais": "combien (moins de 10)",
+    "exemple": "你有几本书？(Nǐ yǒu jǐ běn shū?) → Combien de livres as-tu ?" },
+
+  { "chinois": "多少", "pinyin": "duō shǎo", "francais": "combien",
+    "exemple": "你多少钱？(Nǐ duō shǎo qián?) → Combien ça coûte ?" },
+
+  { "chinois": "为什么", "pinyin": "wèi shén me", "francais": "pourquoi",
+    "exemple": "你为什么学习汉语？(Nǐ wèi shén me xué xí hàn yǔ?) → Pourquoi apprends-tu le chinois ?" },
+
+  { "chinois": "怎么", "pinyin": "zěn me", "francais": "comment / de quelle manière",
+    "exemple": "你怎么去学校？(Nǐ zěn me qù xué xiào?) → Comment vas-tu à l'école ?" },
+
+  { "chinois": "怎么样", "pinyin": "zěn me yàng", "francais": "comment / que penses-tu de ...",
+    "exemple": "这个电影怎么样？(Zhè gè diàn yǐng zěn me yàng?) → Que penses-tu de ce film ?" },
+
+  { "chinois": "几时", "pinyin": "jǐ shí", "francais": "quand (formal / HSK moins courant)",
+    "exemple": "你几时回家？(Nǐ jǐ shí huí jiā?) → Quand rentres-tu à la maison ?" },
+
+  { "chinois": "什么时候", "pinyin": "shén me shí hou", "francais": "quand",
+    "exemple": "你什么时候去北京？(Nǐ shén me shí hou qù Běi jīng?) → Quand vas-tu à Pékin ?" }
+]
+,
+"adverbes": [
+  { "chinois": "绝对", "pinyin": "jué duì", "francais": "absolument" },
+  { "chinois": "偶然地", "pinyin": "ǒu rán dì", "francais": "accidentellement" },
+  { "chinois": "积极地", "pinyin": "jī jí dì", "francais": "activement" },
+  { "chinois": "目前", "pinyin": "mù qián", "francais": "actuellement" },
+  { "chinois": "还有", "pinyin": "huán yǒu", "francais": "ailleurs" },
+  { "chinois": "异常地", "pinyin": "yì cháng dì", "francais": "anormalement" },
+  { "chinois": "显然", "pinyin": "xiǎn rán", "francais": "apparemment" },
+  { "chinois": "大约", "pinyin": "dà yuē", "francais": "approximativement" },
+  { "chinois": "后", "pinyin": "hòu", "francais": "après" },
+  { "chinois": "相当地", "pinyin": "xiāng dāng dì", "francais": "assez" },
+  { "chinois": "用心地", "pinyin": "yòng xīn dì", "francais": "attentivement" },
+  { "chinois": "随机地", "pinyin": "suí jī dì", "francais": "au hasard" },
+  { "chinois": "也", "pinyin": "yě", "francais": "aussi" },
+  { "chinois": "自动地", "pinyin": "zì dòng dì", "francais": "automatiquement" },
+  { "chinois": "在过去", "pinyin": "zài guò qù", "francais": "autrefois" },
+  { "chinois": "除此以外", "pinyin": "chú cǐ yǐ wài", "francais": "autrement" },
+  { "chinois": "很多", "pinyin": "hěn duō", "francais": "beaucoup / énormément" },
+  { "chinois": "愚蠢地", "pinyin": "yú chǔn dì", "francais": "bêtement" },
+  { "chinois": "好地", "pinyin": "hǎo de", "francais": "bien" },
+  { "chinois": "很快", "pinyin": "hěn kuài", "francais": "bientôt" },
+  { "chinois": "奇怪地", "pinyin": "qí guài dì", "francais": "bizarrement" },
+  { "chinois": "简要地", "pinyin": "jiǎn yào dì", "francais": "brièvement" },
+  { "chinois": "高声地", "pinyin": "gāo shēng dì", "francais": "bruyamment" },
+  { "chinois": "冷静地", "pinyin": "lěng jìng dì", "francais": "calmement / tranquillement" },
+  { "chinois": "当然", "pinyin": "dāng rán", "francais": "certainement" },
+  { "chinois": "清楚地", "pinyin": "qīng chǔ dì", "francais": "clairement" },
+  { "chinois": "完全地", "pinyin": "wán quán dì", "francais": "complètement" },
+  { "chinois": "舒服地", "pinyin": "shū fú dì", "francais": "confortablement" },
+  { "chinois": "不断地", "pinyin": "bù duàn dì", "francais": "constamment" },
+  { "chinois": "正确", "pinyin": "zhèng què", "francais": "correctement" },
+  { "chinois": "勇敢地", "pinyin": "yǒng gǎn dì", "francais": "courageusement" },
+  { "chinois": "流利地", "pinyin": "liú lì dì", "francais": "couramment" },
+  { "chinois": "好奇地", "pinyin": "hǎo qí dì", "francais": "curieusement" },
+  { "chinois": "通常", "pinyin": "tōng cháng", "francais": "habituellement" },
+  { "chinois": "越来越多", "pinyin": "yuè lái yuè duō", "francais": "de plus en plus" },
+  { "chinois": "故意地", "pinyin": "gù yì dì", "francais": "délibérément / exprès" },
+  { "chinois": "最近", "pinyin": "zuì jìn", "francais": "dernièrement" },
+  { "chinois": "突然", "pinyin": "tū rán", "francais": "soudainement" },
+  { "chinois": "轻轻地", "pinyin": "qīng qīng dì", "francais": "doucement" },
+  { "chinois": "再次", "pinyin": "zài cì", "francais": "encore" },
+  { "chinois": "一起", "pinyin": "yī qǐ", "francais": "ensemble" },
+  { "chinois": "然后", "pinyin": "rán hòu", "francais": "ensuite" },
+  { "chinois": "明显地", "pinyin": "míng xiǎn dì", "francais": "évidemment" },
+  { "chinois": "极其", "pinyin": "jí qí", "francais": "extrêmement" },
+  { "chinois": "容易地", "pinyin": "róng yì dì", "francais": "facilement" },
+  { "chinois": "最终", "pinyin": "zuì zhōng", "francais": "finalement" },
+  { "chinois": "立刻", "pinyin": "lì kè", "francais": "immédiatement" },
+  { "chinois": "几乎", "pinyin": "jī hū", "francais": "presque" },
+  { "chinois": "马上", "pinyin": "mǎ shàng", "francais": "tout de suite" },
+  { "chinois": "经常", "pinyin": "jīng cháng", "francais": "souvent" },
+  { "chinois": "总是", "pinyin": "zǒng shì", "francais": "toujours" },
+  { "chinois": "非常", "pinyin": "fēi cháng", "francais": "très" },
+  { "chinois": "真的", "pinyin": "zhēn de", "francais": "vraiment" }
+]
+,
+"couleurs": [
+  { "chinois": "颜色", "pinyin": "yán sè", "francais": "couleur" },
+
+  { "chinois": "白色", "pinyin": "bái sè", "francais": "blanc" },
+  { "chinois": "黑色", "pinyin": "hēi sè", "francais": "noir" },
+  { "chinois": "红色", "pinyin": "hóng sè", "francais": "rouge" },
+  { "chinois": "蓝色", "pinyin": "lán sè", "francais": "bleu" },
+  { "chinois": "绿色", "pinyin": "lǜ sè", "francais": "vert" },
+  { "chinois": "黄色", "pinyin": "huáng sè", "francais": "jaune" },
+
+  { "chinois": "橙色", "pinyin": "chéng sè", "francais": "orange" },
+  { "chinois": "紫色", "pinyin": "zǐ sè", "francais": "violet" },
+  { "chinois": "粉红色", "pinyin": "fěn hóng sè", "francais": "rose" },
+  { "chinois": "棕色", "pinyin": "zōng sè", "francais": "marron" },
+  { "chinois": "灰色", "pinyin": "huī sè", "francais": "gris" },
+
+  { "chinois": "金色", "pinyin": "jīn sè", "francais": "doré" },
+  { "chinois": "银色", "pinyin": "yín sè", "francais": "argenté" },
+
+  { "chinois": "浅色", "pinyin": "qiǎn sè", "francais": "clair" },
+  { "chinois": "深色", "pinyin": "shēn sè", "francais": "foncé" },
+
+  { "chinois": "彩色", "pinyin": "cǎi sè", "francais": "multicolore" },
+  { "chinois": "透明", "pinyin": "tòu míng", "francais": "transparent" }
+]
+
+
+
+,
+  "noms": [
+    {"chinois":"人","pinyin":"rén","francais":"personne"},
+  {"chinois":"朋友","pinyin":"péngyǒu","francais":"ami"},
+  {"chinois":"家","pinyin":"jiā","francais":"maison / famille"},
+  {"chinois":"学校","pinyin":"xuéxiào","francais":"école"},
+  {"chinois":"老师","pinyin":"lǎoshī","francais":"professeur"},
+  {"chinois":"学生","pinyin":"xuéshēng","francais":"étudiant"},
+  {"chinois":"名字","pinyin":"míngzi","francais":"nom"},
+  {"chinois":"时间","pinyin":"shíjiān","francais":"temps"},
+  {"chinois":"地方","pinyin":"dìfang","francais":"endroit"},
+  {"chinois":"东西","pinyin":"dōngxi","francais":"chose / objet"},
+  {"chinois":"水","pinyin":"shuǐ","francais":"eau"},
+  {"chinois":"食物","pinyin":"shíwù","francais":"nourriture"},
+  {"chinois":"水果","pinyin":"shuǐguǒ","francais":"fruit"},
+  {"chinois":"茶","pinyin":"chá","francais":"thé"},
+  {"chinois":"咖啡","pinyin":"kāfēi","francais":"café"},
+  {"chinois":"车","pinyin":"chē","francais":"voiture / véhicule"},
+  {"chinois":"自行车","pinyin":"zìxíngchē","francais":"vélo"},
+  {"chinois":"电脑","pinyin":"diànnǎo","francais":"ordinateur"},
+  {"chinois":"手机","pinyin":"shǒujī","francais":"téléphone"},
+  {"chinois":"书","pinyin":"shū","francais":"livre"},
+  {"chinois":"衣服","pinyin":"yīfu","francais":"vêtement"},
+  {"chinois":"鞋","pinyin":"xié","francais":"chaussure"},
+  {"chinois":"帽子","pinyin":"màozi","francais":"chapeau"},
+  {"chinois":"天气","pinyin":"tiānqì","francais":"temps (météo)"},
+  {"chinois":"太阳","pinyin":"tàiyáng","francais":"soleil"},
+  {"chinois":"月亮","pinyin":"yuèliàng","francais":"lune"},
+  {"chinois":"星星","pinyin":"xīngxing","francais":"étoile"},
+  {"chinois":"衣柜","pinyin":"yīguì","francais":"armoire"},
+  {"chinois":"床","pinyin":"chuáng","francais":"lit"},
+  {"chinois":"椅子","pinyin":"yǐzi","francais":"chaise"},
+  {"chinois":"桌子","pinyin":"zhuōzi","francais":"table"},
+  {"chinois":"门","pinyin":"mén","francais":"porte"},
+  {"chinois":"窗户","pinyin":"chuānghu","francais":"fenêtre"},
+  {"chinois":"墙","pinyin":"qiáng","francais":"mur"},
+  {"chinois":"城市","pinyin":"chéngshì","francais":"ville"},
+  {"chinois":"国家","pinyin":"guójiā","francais":"pays"},
+  {"chinois":"村庄","pinyin":"cūnzhuāng","francais":"village"},
+  {"chinois":"海","pinyin":"hǎi","francais":"mer"},
+  {"chinois":"河","pinyin":"hé","francais":"rivière"},
+  {"chinois":"山","pinyin":"shān","francais":"montagne"},
+  {"chinois":"树","pinyin":"shù","francais":"arbre"},
+  {"chinois":"花","pinyin":"huā","francais":"fleur"},
+  {"chinois":"草","pinyin":"cǎo","francais":"herbe"},
+  {"chinois":"动物","pinyin":"dòngwù","francais":"animal"},
+  {"chinois":"猫","pinyin":"māo","francais":"chat"},
+  {"chinois":"狗","pinyin":"gǒu","francais":"chien"},
+  {"chinois":"鸟","pinyin":"niǎo","francais":"oiseau"},
+  {"chinois":"鱼","pinyin":"yú","francais":"poisson"},
+  {"chinois":"马","pinyin":"mǎ","francais":"cheval"},
+  {"chinois":"牛","pinyin":"niú","francais":"vache"},
+  {"chinois":"羊","pinyin":"yáng","francais":"mouton / chèvre"},
+  {"chinois":"猪","pinyin":"zhū","francais":"cochon"},
+  {"chinois":"鸡","pinyin":"jī","francais":"poulet"},
+  {"chinois":"蛋","pinyin":"dàn","francais":"œuf"},
+  {"chinois":"面包","pinyin":"miànbāo","francais":"pain"},
+  {"chinois":"米饭","pinyin":"mǐfàn","francais":"riz"},
+  {"chinois":"水果","pinyin":"shuǐguǒ","francais":"fruit"},
+  {"chinois":"蔬菜","pinyin":"shūcài","francais":"légume"},
+  {"chinois":"衣服","pinyin":"yīfu","francais":"vêtements"},
+  {"chinois":"裤子","pinyin":"kùzi","francais":"pantalon"},
+  {"chinois":"裙子","pinyin":"qúnzi","francais":"jupe"},
+  {"chinois":"鞋子","pinyin":"xiézi","francais":"chaussures"},
+  {"chinois":"帽子","pinyin":"màozi","francais":"chapeau"},
+  {"chinois":"眼镜","pinyin":"yǎnjìng","francais":"lunettes"},
+  {"chinois":"手表","pinyin":"shǒubiǎo","francais":"montre"},
+  {"chinois":"钱包","pinyin":"qiánbāo","francais":"portefeuille"},
+  {"chinois":"钥匙","pinyin":"yàoshi","francais":"clé"},
+  {"chinois":"电话","pinyin":"diànhuà","francais":"téléphone"},
+  {"chinois":"电脑","pinyin":"diànnǎo","francais":"ordinateur"},
+  {"chinois":"电视","pinyin":"diànshì","francais":"télévision"},
+  {"chinois":"车","pinyin":"chē","francais":"voiture"},
+  {"chinois":"自行车","pinyin":"zìxíngchē","francais":"vélo"},
+  {"chinois":"飞机","pinyin":"fēijī","francais":"avion"},
+  {"chinois":"火车","pinyin":"huǒchē","francais":"train"},
+  {"chinois":"船","pinyin":"chuán","francais":"bateau"},
+  {"chinois":"路","pinyin":"lù","francais":"route"},
+  {"chinois":"桥","pinyin":"qiáo","francais":"pont"},
+  {"chinois":"商店","pinyin":"shāngdiàn","francais":"magasin"},
+  {"chinois":"超市","pinyin":"chāoshì","francais":"supermarché"},
+  {"chinois":"银行","pinyin":"yínháng","francais":"banque"},
+  {"chinois":"医院","pinyin":"yīyuàn","francais":"hôpital"},
+  {"chinois":"药店","pinyin":"yàodiàn","francais":"pharmacie"},
+  {"chinois":"餐厅","pinyin":"cāntīng","francais":"restaurant"},
+  {"chinois":"饭店","pinyin":"fàndiàn","francais":"hôtel / restaurant"},
+  {"chinois":"火锅","pinyin":"huǒguō","francais":"fondue chinoise"},
+  {"chinois":"学校","pinyin":"xuéxiào","francais":"école"},
+  {"chinois":"教室","pinyin":"jiàoshì","francais":"classe"},
+  {"chinois":"图书馆","pinyin":"túshūguǎn","francais":"bibliothèque"},
+  {"chinois":"公园","pinyin":"gōngyuán","francais":"parc"},
+  {"chinois":"电影院","pinyin":"diànyǐngyuàn","francais":"cinéma"},
+  {"chinois":"机场","pinyin":"jīchǎng","francais":"aéroport"},
+  {"chinois":"火车站","pinyin":"huǒchēzhàn","francais":"gare"},
+  {"chinois":"地铁站","pinyin":"dìtiě zhàn","francais":"station de métro"},
+  {"chinois":"邮局","pinyin":"yóujú","francais":"bureau de poste"},
+  {"chinois":"商场","pinyin":"shāngchǎng","francais":"centre commercial"},
+  {"chinois":"市场","pinyin":"shìchǎng","francais":"marché"},
+  {"chinois":"银行","pinyin":"yínháng","francais":"banque"},
+  {"chinois":"医院","pinyin":"yīyuàn","francais":"hôpital"},
+  {"chinois":"药店","pinyin":"yàodiàn","francais":"pharmacie"},
+  {"chinois":"餐厅","pinyin":"cāntīng","francais":"restaurant"},
+  {"chinois":"饭店","pinyin":"fàndiàn","francais":"hôtel / restaurant"},
+  {"chinois":"火锅","pinyin":"huǒguō","francais":"fondue chinoise"},
+  {"chinois":"电视","pinyin":"diànshì","francais":"télévision"},
+  {"chinois":"电脑","pinyin":"diànnǎo","francais":"ordinateur"},
+  {"chinois":"手机","pinyin":"shǒujī","francais":"téléphone"},
+  {"chinois":"衣服","pinyin":"yīfu","francais":"vêtements"},
+  {"chinois":"裤子","pinyin":"kùzi","francais":"pantalon"},
+  {"chinois":"裙子","pinyin":"qúnzi","francais":"jupe"},
+  {"chinois":"鞋子","pinyin":"xiézi","francais":"chaussures"},
+  {"chinois":"帽子","pinyin":"màozi","francais":"chapeau"},
+  {"chinois":"眼镜","pinyin":"yǎnjìng","francais":"lunettes"},
+  {"chinois":"手表","pinyin":"shǒubiǎo","francais":"montre"},
+  {"chinois":"钥匙","pinyin":"yàoshi","francais":"clé"},
+  {"chinois":"钱包","pinyin":"qiánbāo","francais":"portefeuille"},
+  {"chinois":"雨伞","pinyin":"yǔsǎn","francais":"parapluie"},
+  {"chinois":"书","pinyin":"shū","francais":"livre"},
+  {"chinois":"报纸","pinyin":"bàozhǐ","francais":"journal"},
+  {"chinois":"笔","pinyin":"bǐ","francais":"stylo"},
+  {"chinois":"纸","pinyin":"zhǐ","francais":"papier"},
+  {"chinois":"桌子","pinyin":"zhuōzi","francais":"table"},
+  {"chinois":"椅子","pinyin":"yǐzi","francais":"chaise"},
+  {"chinois":"床","pinyin":"chuáng","francais":"lit"},
+  {"chinois":"门","pinyin":"mén","francais":"porte"},
+  {"chinois":"窗户","pinyin":"chuānghù","francais":"fenêtre"},
+  {"chinois":"墙","pinyin":"qiáng","francais":"mur"},
+  {"chinois":"房子","pinyin":"fángzi","francais":"maison"},
+  {"chinois":"公寓","pinyin":"gōngyù","francais":"appartement"},
+  {"chinois":"城市","pinyin":"chéngshì","francais":"ville"},
+  {"chinois":"乡村","pinyin":"xiāngcūn","francais":"village"},
+  {"chinois":"国家","pinyin":"guójiā","francais":"pays"},
+  {"chinois":"朋友","pinyin":"péngyǒu","francais":"ami"},
+  {"chinois":"同学","pinyin":"tóngxué","francais":"camarade"},
+  {"chinois":"家人","pinyin":"jiārén","francais":"famille"},
+  {"chinois":"父亲","pinyin":"fùqīn","francais":"père"},
+  {"chinois":"母亲","pinyin":"mǔqīn","francais":"mère"},
+  {"chinois":"儿子","pinyin":"érzi","francais":"fils"},
+  {"chinois":"女儿","pinyin":"nǚ’ér","francais":"fille"},
+  {"chinois":"兄弟","pinyin":"xiōngdì","francais":"frère"},
+  {"chinois":"姐妹","pinyin":"jiěmèi","francais":"sœur"},
+  {"chinois":"老师","pinyin":"lǎoshī","francais":"professeur"},
+  {"chinois":"学生","pinyin":"xuéshēng","francais":"étudiant"},
+  {"chinois":"医生","pinyin":"yīshēng","francais":"médecin"},
+  {"chinois":"护士","pinyin":"hùshi","francais":"infirmier / infirmière"},
+  {"chinois":"司机","pinyin":"sījī","francais":"chauffeur"},
+  {"chinois":"警察","pinyin":"jǐngchá","francais":"policier"},
+  {"chinois":"演员","pinyin":"yǎnyuán","francais":"acteur / actrice"},
+  {"chinois":"歌手","pinyin":"gēshǒu","francais":"chanteur / chanteuse"},
+  {"chinois":"作家","pinyin":"zuòjiā","francais":"écrivain"},
+  {"chinois":"画家","pinyin":"huàjiā","francais":"peintre"},
+  {"chinois":"司机","pinyin":"sījī","francais":"chauffeur"}
+  ],
+  "adjectifs": [
+    { "chinois": "大", "pinyin": "dà", "francais": "grand" },
+  { "chinois": "小", "pinyin": "xiǎo", "francais": "petit" },
+  { "chinois": "多", "pinyin": "duō", "francais": "beaucoup" },
+  { "chinois": "少", "pinyin": "shǎo", "francais": "peu" },
+  { "chinois": "好", "pinyin": "hǎo", "francais": "bon" },
+  { "chinois": "坏", "pinyin": "huài", "francais": "mauvais" },
+  { "chinois": "冷", "pinyin": "lěng", "francais": "froid" },
+  { "chinois": "热", "pinyin": "rè", "francais": "chaud" },
+  { "chinois": "快", "pinyin": "kuài", "francais": "rapide" },
+  { "chinois": "慢", "pinyin": "màn", "francais": "lent" },
+  { "chinois": "漂亮", "pinyin": "piàoliang", "francais": "joli" },
+  { "chinois": "美丽", "pinyin": "měilì", "francais": "beau / belle" },
+  { "chinois": "高", "pinyin": "gāo", "francais": "haut / grand (taille)" },
+  { "chinois": "矮", "pinyin": "ǎi", "francais": "petit (taille)" },
+  { "chinois": "长", "pinyin": "cháng", "francais": "long" },
+  { "chinois": "短", "pinyin": "duǎn", "francais": "court" },
+  { "chinois": "新", "pinyin": "xīn", "francais": "nouveau" },
+  { "chinois": "旧", "pinyin": "jiù", "francais": "ancien / vieux" },
+  { "chinois": "贵", "pinyin": "guì", "francais": "cher" },
+  { "chinois": "便宜", "pinyin": "piányi", "francais": "bon marché" },
+  { "chinois": "忙", "pinyin": "máng", "francais": "occupé" },
+  { "chinois": "累", "pinyin": "lèi", "francais": "fatigué" },
+  { "chinois": "干净", "pinyin": "gānjìng", "francais": "propre" },
+  { "chinois": "脏", "pinyin": "zāng", "francais": "sale" },
+  { "chinois": "方便", "pinyin": "fāngbiàn", "francais": "pratique" },
+  { "chinois": "难", "pinyin": "nán", "francais": "difficile" },
+  { "chinois": "容易", "pinyin": "róngyì", "francais": "facile" },
+  { "chinois": "重要", "pinyin": "zhòngyào", "francais": "important" },
+  { "chinois": "安全", "pinyin": "ānquán", "francais": "sûr, sécurisé" },
+  { "chinois": "舒服", "pinyin": "shūfu", "francais": "confortable" },
+  { "chinois": "安静", "pinyin": "ānjìng", "francais": "calme" },
+  { "chinois": "累", "pinyin": "lèi", "francais": "fatigué" },
+  { "chinois": "可爱", "pinyin": "kě’ài", "francais": "mignon" },
+  { "chinois": "聪明", "pinyin": "cōngming", "francais": "intelligent" },
+  { "chinois": "难过", "pinyin": "nánguò", "francais": "triste / peiné" },
+  { "chinois": "开心", "pinyin": "kāixīn", "francais": "heureux" },
+  { "chinois": "安乐", "pinyin": "ānlè", "francais": "joyeux" },
+  { "chinois": "干燥", "pinyin": "gānzào", "francais": "sec" },
+  { "chinois": "湿", "pinyin": "shī", "francais": "humide" },
+  { "chinois": "简单", "pinyin": "jiǎndān", "francais": "simple" },
+  { "chinois": "复杂", "pinyin": "fùzá", "francais": "complexe" },
+  { "chinois": "安稳", "pinyin": "ānwěn", "francais": "stable" },
+  { "chinois": "富有", "pinyin": "fùyǒu", "francais": "riche" },
+  { "chinois": "贫穷", "pinyin": "pínqióng", "francais": "pauvre" },
+  { "chinois": "不同", "pinyin": "bùtóng", "francais": "différent" },
+  { "chinois": "一样", "pinyin": "yīyàng", "francais": "pareil / identique" },
+  { "chinois": "主要", "pinyin": "zhǔyào", "francais": "principal" },
+  { "chinois": "完整", "pinyin": "wánzhěng", "francais": "complet" },
+  { "chinois": "真实", "pinyin": "zhēnshí", "francais": "véritable" },
+  { "chinois": "明显", "pinyin": "míngxiǎn", "francais": "évident" },
+  { "chinois": "特别", "pinyin": "tèbié", "francais": "spécial" },
+  { "chinois": "奇怪", "pinyin": "qíguài", "francais": "étrange" },
+  { "chinois": "舒服", "pinyin": "shūfu", "francais": "agréable" },
+  { "chinois": "聪明", "pinyin": "cōngming", "francais": "intelligent" },
+  { "chinois": "糟糕", "pinyin": "zāogāo", "francais": "terrible" },
+  { "chinois": "奇妙", "pinyin": "qímiào", "francais": "merveilleux" },
+  { "chinois": "安静", "pinyin": "ānjìng", "francais": "silencieux" },
+  { "chinois": "严格", "pinyin": "yángé", "francais": "strict" },
+  { "chinois": "灵活", "pinyin": "línghuó", "francais": "flexible" },
+  { "chinois": "急", "pinyin": "jí", "francais": "pressé" },
+  { "chinois": "累", "pinyin": "lèi", "francais": "fatigué" },
+  { "chinois": "安全", "pinyin": "ānquán", "francais": "sécurisé" },
+  { "chinois": "优秀", "pinyin": "yōuxiù", "francais": "excellent" },
+  { "chinois": "稀饭", "pinyin": "xīfàn", "francais": "adoré" },
+  { "chinois": "可怜", "pinyin": "kělián", "francais": "pitoyable" },
+  { "chinois": "无聊", "pinyin": "wúliáo", "francais": "ennuyeux" },
+  { "chinois": "奇特", "pinyin": "qítè", "francais": "particulier" },
+  { "chinois": "丰富", "pinyin": "fēngfù", "francais": "abondant" },
+  { "chinois": "拥挤", "pinyin": "yōngjǐ", "francais": "bondé" },
+  { "chinois": "骄傲", "pinyin": "jiāo’ào", "francais": "fier" },
+  { "chinois": "优雅", "pinyin": "yōuyǎ", "francais": "élégant" },
+  { "chinois": "自信", "pinyin": "zìxìn", "francais": "confiant" },
+  { "chinois": "简单", "pinyin": "jiǎndān", "francais": "simple" },
+  { "chinois": "热情", "pinyin": "rèqíng", "francais": "chaleureux" },
+  { "chinois": "真诚", "pinyin": "zhēnchéng", "francais": "sincère" }
+  ]
+}
