@@ -1,0 +1,123 @@
+/* --- Global --- */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+/* Boutons catégories */
+#categories {
+  margin-bottom: 20px;
+}
+#categories button {
+  margin: 5px;
+  padding: 10px 15px;
+  border-radius: 8px;
+  border: none;
+  background-color: grey;
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: 0.3s;
+}
+#categories button:hover {
+  background-color: #0056b3;
+}
+
+/* --- Grille cartes normales --- */
+#cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 15px;
+  justify-items: center;
+    
+  margin-top: 20px;
+}
+
+/* --- Carte --- */
+.card {
+  perspective: 1000px;
+  width: 180px;
+  height: 180px;
+  position: relative;
+  cursor: pointer;
+}
+
+/* --- Carte aléatoire --- */
+.card-vertical {
+  width: 400px !important;
+  height: 400px !important;
+}
+
+/* --- Inner pour animation --- */
+.card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+/* --- Flip horizontal pour cartes normales --- */
+.card.flipped:not(.card-vertical) .card-inner {
+  transform: rotateX(180deg);
+}
+
+/* --- Flip vertical pour carte aléatoire --- */
+.card-vertical.flipped .card-inner {
+  transform: rotateX(180deg);
+}
+
+/* --- Faces --- */
+.card-face {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  backface-visibility: hidden;
+  text-align: center;
+  word-wrap: break-word;
+ 
+  font-size: 3rem;
+}
+
+/* --- Face arrière --- */
+.card-back {
+  transform: rotateX(180deg);
+  flex-direction: column;
+  font-size: 1.5rem;
+}
+
+/* --- Carte aléatoire back --- */
+.card-vertical .card-back {
+  transform: rotateX(180deg);
+  
+}
+
+/* --- Flèches aléatoire --- */
+button.arrow {
+  font-size: 2rem;
+  padding: 5px 10px;
+  margin: 0 10px;
+  cursor: pointer;
+  border-radius: 6px;
+  border: none;
+}
+button.arrow:hover {
+  background-color: #ddd;
+}
+
+/* --- Input pour nombres --- */
+#number-cards input {
+  padding: 5px 10px;
+  font-size: 1rem;
+  margin-right: 5px;
+}
+#number-cards button {
+  padding: 5px 10px;
+  font-size: 1rem;
+}

@@ -3,9 +3,10 @@ body {
   font-family: Arial, sans-serif;
   text-align: center;
   margin: 20px;
+  user-select: none;
 }
 
-/* Boutons catégories */
+/* --- Boutons catégories --- */
 #categories {
   margin-bottom: 20px;
 }
@@ -14,9 +15,9 @@ body {
   padding: 10px 15px;
   border-radius: 8px;
   border: none;
-  background-color: grey;
+  background-color: red;
   color: white;
-  font-size: 1rem;
+  font-size: clamp(0.8rem, 2vw, 1.5rem);
   cursor: pointer;
   transition: 0.3s;
 }
@@ -27,26 +28,30 @@ body {
 /* --- Grille cartes normales --- */
 #cards {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-  gap: 15px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* cartes plus grandes */
+  gap: 20px;
   justify-items: center;
-    
   margin-top: 20px;
 }
 
 /* --- Carte --- */
 .card {
   perspective: 1000px;
-  width: 180px;
-  height: 180px;
+  width: 100%;
+  max-width: 450px; /* cartes plus larges */
+  height: 450px;
   position: relative;
   cursor: pointer;
+  margin: 0 auto;
 }
 
 /* --- Carte aléatoire --- */
 .card-vertical {
-  width: 400px !important;
-  height: 400px !important;
+  width: 85vw;
+  max-width: 400px;
+  height: 85vw;
+  max-height: 400px;
+  margin: 0 15px;
 }
 
 /* --- Inner pour animation --- */
@@ -59,13 +64,13 @@ body {
 }
 
 /* --- Flip horizontal pour cartes normales --- */
-.card.flipped:not(.card-vertical) .card-inner {
+.card:not(.card-vertical).flipped .card-inner {
   transform: rotateX(180deg);
 }
 
 /* --- Flip vertical pour carte aléatoire --- */
 .card-vertical.flipped .card-inner {
-  transform: rotateX(180deg);
+  transform: rotateY(180deg);
 }
 
 /* --- Faces --- */
@@ -80,44 +85,90 @@ body {
   align-items: center;
   backface-visibility: hidden;
   text-align: center;
-  word-wrap: break-word;
- 
-  font-size: 3rem;
+  word-break: break-word;
+  padding: 10px;
+  box-sizing: border-box;
+  font-size: clamp(4rem, 4vw, 3.4rem);
 }
 
 /* --- Face arrière --- */
 .card-back {
   transform: rotateX(180deg);
   flex-direction: column;
-  font-size: 1.5rem;
+  font-size: clamp(0.8rem, 2vw, 1.2rem);
+  letter-spacing: 0.02em;
 }
 
 /* --- Carte aléatoire back --- */
 .card-vertical .card-back {
-  transform: rotateX(180deg);
-  
+  transform: rotateY(180deg);
 }
 
 /* --- Flèches aléatoire --- */
 button.arrow {
-  font-size: 2rem;
-  padding: 5px 10px;
-  margin: 0 10px;
-  cursor: pointer;
-  border-radius: 6px;
+  font-size: clamp(1.5rem, 8vw, 2.5rem);
+  padding: 8px 12px;
+  position: absolute;
+  z-index: 10;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   border: none;
+  cursor: pointer;
 }
-button.arrow:hover {
-  background-color: #ddd;
+
+button.arrow:first-of-type {
+  left: 0;
+}
+
+button.arrow:last-of-type {
+  right: 0;
 }
 
 /* --- Input pour nombres --- */
 #number-cards input {
   padding: 5px 10px;
-  font-size: 1rem;
+  font-size: clamp(0.8rem, 2vw, 1rem);
   margin-right: 5px;
+  width: 60px;
+  text-align: center;
 }
 #number-cards button {
   padding: 5px 10px;
-  font-size: 1rem;
+  font-size: clamp(0.8rem, 2vw, 1rem);
+}
+
+/* --- Conteneur carte aléatoire --- */
+#random-card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+  max-width: 100%;
+  position: relative;
+  flex-direction: column;
+}
+
+#random-card-and-arrows {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  position: relative;
+}
+
+/* --- Responsive : 2 cartes par ligne max --- */
+@media (max-width: 700px) {
+  #cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 500px) {
+  #cards {
+    grid-template-columns: 1fr;
+  }
 }
